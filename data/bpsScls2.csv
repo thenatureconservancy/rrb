@@ -1,0 +1,847 @@
+"","model_label","Model_Code","refLabel","refPercent","BpS_Name","Var1","Var2","Freq","BPS_CODE","ZONE","total_count","currentPercent"
+"1","10080_1_2_3_7_A","10080_1_2_3_7","A",9,"North Pacific Oak Woodland",760,1,172,10080,2,3216,5
+"2","10080_1_2_3_7_A","10080_1_2_3_7","A",9,"North Pacific Oak Woodland",790,1,15,10080,7,184,8
+"3","10080_1_2_3_7_B","10080_1_2_3_7","B",5,"North Pacific Oak Woodland",760,2,522,10080,2,3216,16
+"4","10080_1_2_3_7_B","10080_1_2_3_7","B",5,"North Pacific Oak Woodland",790,2,85,10080,7,184,46
+"5","10080_1_2_3_7_C","10080_1_2_3_7","C",86,"North Pacific Oak Woodland",760,3,113,10080,2,3216,3
+"6","10080_1_2_3_7_C","10080_1_2_3_7","C",86,"North Pacific Oak Woodland",790,3,83,10080,7,184,45
+"7","10080_1_2_3_7_D","10080_1_2_3_7","D",NA,"North Pacific Oak Woodland",NA,NA,NA,NA,NA,NA,NA
+"8","10080_1_2_3_7_E","10080_1_2_3_7","E",NA,"North Pacific Oak Woodland",NA,NA,NA,NA,NA,NA,NA
+"9","10080_1_2_3_7_Agriculture","10080_1_2_3_7","Agriculture",0,"North Pacific Oak Woodland",760,180,1117,10080,2,3216,34
+"10","10080_1_2_3_7_Developed","10080_1_2_3_7","Developed",0,"North Pacific Oak Woodland",760,120,1149,10080,2,3216,35
+"11","10080_1_2_3_7_Water","10080_1_2_3_7","Water",0,"North Pacific Oak Woodland",NA,NA,NA,NA,NA,NA,NA
+"12","10080_1_2_3_7_UN","10080_1_2_3_7","UN",0,"North Pacific Oak Woodland",NA,NA,NA,NA,NA,NA,NA
+"13","10080_1_2_3_7_UE","10080_1_2_3_7","UE",0,"North Pacific Oak Woodland",760,7,118,10080,2,3216,3
+"14","10080_1_2_3_7_UE","10080_1_2_3_7","UE",0,"North Pacific Oak Woodland",790,7,1,10080,7,184,0
+"15","10110_7_A","10110_7","A",27,"Rocky Mountain Aspen Forest and Woodland",791,1,73,10110,7,181,40
+"16","10110_7_B","10110_7","B",18,"Rocky Mountain Aspen Forest and Woodland",791,2,56,10110,7,181,30
+"17","10110_7_C","10110_7","C",18,"Rocky Mountain Aspen Forest and Woodland",791,3,5,10110,7,181,2
+"18","10110_7_D","10110_7","D",24,"Rocky Mountain Aspen Forest and Woodland",791,4,5,10110,7,181,2
+"19","10110_7_E","10110_7","E",13,"Rocky Mountain Aspen Forest and Woodland",791,5,40,10110,7,181,22
+"20","10110_7_Agriculture","10110_7","Agriculture",0,"Rocky Mountain Aspen Forest and Woodland",791,180,2,10110,7,181,1
+"21","10110_7_Developed","10110_7","Developed",0,"Rocky Mountain Aspen Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"22","10110_7_Water","10110_7","Water",0,"Rocky Mountain Aspen Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"23","10110_7_UN","10110_7","UN",0,"Rocky Mountain Aspen Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"24","10110_7_UE","10110_7","UE",0,"Rocky Mountain Aspen Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"25","10150_2_3_4_A","10150_2_3_4","A",1,"California Coastal Redwood Forest",761,1,3296,10150,2,40298,8
+"26","10150_2_3_4_B","10150_2_3_4","B",7,"California Coastal Redwood Forest",761,2,19380,10150,2,40298,48
+"27","10150_2_3_4_C","10150_2_3_4","C",92,"California Coastal Redwood Forest",761,3,7377,10150,2,40298,18
+"28","10150_2_3_4_D","10150_2_3_4","D",NA,"California Coastal Redwood Forest",NA,NA,NA,NA,NA,NA,NA
+"29","10150_2_3_4_E","10150_2_3_4","E",NA,"California Coastal Redwood Forest",NA,NA,NA,NA,NA,NA,NA
+"30","10150_2_3_4_Agriculture","10150_2_3_4","Agriculture",0,"California Coastal Redwood Forest",761,180,1313,10150,2,40298,3
+"31","10150_2_3_4_Developed","10150_2_3_4","Developed",0,"California Coastal Redwood Forest",761,120,6717,10150,2,40298,16
+"32","10150_2_3_4_Water","10150_2_3_4","Water",0,"California Coastal Redwood Forest",NA,NA,NA,NA,NA,NA,NA
+"33","10150_2_3_4_UN","10150_2_3_4","UN",0,"California Coastal Redwood Forest",761,6,677,10150,2,40298,1
+"34","10150_2_3_4_UE","10150_2_3_4","UE",0,"California Coastal Redwood Forest",761,7,1499,10150,2,40298,3
+"35","10170_6_7_8_9_12_18_A","10170_6_7_8_9_12_18","A",2,"Columbia Plateau Western Juniper Woodland and Savanna",792,1,2048,10170,7,19101,10
+"36","10170_6_7_8_9_12_18_B","10170_6_7_8_9_12_18","B",7,"Columbia Plateau Western Juniper Woodland and Savanna",792,2,725,10170,7,19101,3
+"37","10170_6_7_8_9_12_18_C","10170_6_7_8_9_12_18","C",18,"Columbia Plateau Western Juniper Woodland and Savanna",792,3,939,10170,7,19101,4
+"38","10170_6_7_8_9_12_18_D","10170_6_7_8_9_12_18","D",43,"Columbia Plateau Western Juniper Woodland and Savanna",792,4,4091,10170,7,19101,21
+"39","10170_6_7_8_9_12_18_E","10170_6_7_8_9_12_18","E",30,"Columbia Plateau Western Juniper Woodland and Savanna",792,5,82,10170,7,19101,0
+"40","10170_6_7_8_9_12_18_Agriculture","10170_6_7_8_9_12_18","Agriculture",0,"Columbia Plateau Western Juniper Woodland and Savanna",792,180,30,10170,7,19101,0
+"41","10170_6_7_8_9_12_18_Developed","10170_6_7_8_9_12_18","Developed",0,"Columbia Plateau Western Juniper Woodland and Savanna",792,120,654,10170,7,19101,3
+"42","10170_6_7_8_9_12_18_Water","10170_6_7_8_9_12_18","Water",0,"Columbia Plateau Western Juniper Woodland and Savanna",NA,NA,NA,NA,NA,NA,NA
+"43","10170_6_7_8_9_12_18_UN","10170_6_7_8_9_12_18","UN",0,"Columbia Plateau Western Juniper Woodland and Savanna",792,6,7399,10170,7,19101,38
+"44","10170_6_7_8_9_12_18_UE","10170_6_7_8_9_12_18","UE",0,"Columbia Plateau Western Juniper Woodland and Savanna",792,7,2988,10170,7,19101,15
+"45","10180_1_7_A","10180_1_7","A",4,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,1,975,10180,7,13694,7
+"46","10180_1_7_B","10180_1_7","B",36,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,2,2708,10180,7,13694,19
+"47","10180_1_7_C","10180_1_7","C",11,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,3,6916,10180,7,13694,50
+"48","10180_1_7_D","10180_1_7","D",11,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,4,537,10180,7,13694,3
+"49","10180_1_7_E","10180_1_7","E",38,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,5,1105,10180,7,13694,8
+"50","10180_1_7_Agriculture","10180_1_7","Agriculture",0,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,180,99,10180,7,13694,0
+"51","10180_1_7_Developed","10180_1_7","Developed",0,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,120,464,10180,7,13694,3
+"52","10180_1_7_Water","10180_1_7","Water",0,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"53","10180_1_7_UN","10180_1_7","UN",0,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"54","10180_1_7_UE","10180_1_7","UE",0,"East Cascades Mesic Montane Mixed-Conifer Forest and Woodland",793,7,863,10180,7,13694,6
+"55","10210_2_3_6_7_A","10210_2_3_6_7","A",19,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,1,5786,10210,3,16701,34
+"56","10210_2_3_6_7_A","10210_2_3_6_7","A",19,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,1,303175,10210,2,906589,33
+"57","10210_2_3_6_7_A","10210_2_3_6_7","A",19,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,1,1286,10210,7,23379,5
+"58","10210_2_3_6_7_B","10210_2_3_6_7","B",1,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,2,2200,10210,3,16701,13
+"59","10210_2_3_6_7_B","10210_2_3_6_7","B",1,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,2,159622,10210,2,906589,17
+"60","10210_2_3_6_7_B","10210_2_3_6_7","B",1,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,2,9430,10210,7,23379,40
+"61","10210_2_3_6_7_C","10210_2_3_6_7","C",24,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,3,4456,10210,3,16701,26
+"62","10210_2_3_6_7_C","10210_2_3_6_7","C",24,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,3,233406,10210,2,906589,25
+"63","10210_2_3_6_7_C","10210_2_3_6_7","C",24,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,3,3994,10210,7,23379,17
+"64","10210_2_3_6_7_D","10210_2_3_6_7","D",53,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,4,675,10210,3,16701,4
+"65","10210_2_3_6_7_D","10210_2_3_6_7","D",53,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,4,22967,10210,2,906589,2
+"66","10210_2_3_6_7_D","10210_2_3_6_7","D",53,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,4,386,10210,7,23379,1
+"67","10210_2_3_6_7_E","10210_2_3_6_7","E",3,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,5,2410,10210,3,16701,14
+"68","10210_2_3_6_7_E","10210_2_3_6_7","E",3,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,5,134469,10210,2,906589,14
+"69","10210_2_3_6_7_E","10210_2_3_6_7","E",3,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,5,7781,10210,7,23379,33
+"70","10210_2_3_6_7_Agriculture","10210_2_3_6_7","Agriculture",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,180,2272,10210,2,906589,0
+"71","10210_2_3_6_7_Agriculture","10210_2_3_6_7","Agriculture",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,180,1,10210,7,23379,0
+"72","10210_2_3_6_7_Developed","10210_2_3_6_7","Developed",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,120,1084,10210,3,16701,6
+"73","10210_2_3_6_7_Developed","10210_2_3_6_7","Developed",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,120,40050,10210,2,906589,4
+"74","10210_2_3_6_7_Developed","10210_2_3_6_7","Developed",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,120,145,10210,7,23379,0
+"75","10210_2_3_6_7_Water","10210_2_3_6_7","Water",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",NA,NA,NA,NA,NA,NA,NA
+"76","10210_2_3_6_7_UN","10210_2_3_6_7","UN",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",NA,NA,NA,NA,NA,NA,NA
+"77","10210_2_3_6_7_UE","10210_2_3_6_7","UE",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",549,7,30,10210,3,16701,0
+"78","10210_2_3_6_7_UE","10210_2_3_6_7","UE",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",762,7,9523,10210,2,906589,1
+"79","10210_2_3_6_7_UE","10210_2_3_6_7","UE",0,"Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland",795,7,311,10210,7,23379,1
+"80","10220_2_3_6_7_A","10220_2_3_6_7","A",18,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,1,15167,10220,3,56573,26
+"81","10220_2_3_6_7_A","10220_2_3_6_7","A",18,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,1,153173,10220,2,292429,52
+"82","10220_2_3_6_7_A","10220_2_3_6_7","A",18,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,1,232,10220,7,6209,3
+"83","10220_2_3_6_7_B","10220_2_3_6_7","B",2,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,2,9710,10220,3,56573,17
+"84","10220_2_3_6_7_B","10220_2_3_6_7","B",2,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,2,25108,10220,2,292429,8
+"85","10220_2_3_6_7_B","10220_2_3_6_7","B",2,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,2,2464,10220,7,6209,39
+"86","10220_2_3_6_7_C","10220_2_3_6_7","C",23,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,3,9599,10220,3,56573,16
+"87","10220_2_3_6_7_C","10220_2_3_6_7","C",23,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,3,68642,10220,2,292429,23
+"88","10220_2_3_6_7_C","10220_2_3_6_7","C",23,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,3,1694,10220,7,6209,27
+"89","10220_2_3_6_7_D","10220_2_3_6_7","D",54,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,4,1656,10220,3,56573,2
+"90","10220_2_3_6_7_D","10220_2_3_6_7","D",54,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,4,4176,10220,2,292429,1
+"91","10220_2_3_6_7_D","10220_2_3_6_7","D",54,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,4,155,10220,7,6209,2
+"92","10220_2_3_6_7_E","10220_2_3_6_7","E",3,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,5,17344,10220,3,56573,30
+"93","10220_2_3_6_7_E","10220_2_3_6_7","E",3,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,5,26804,10220,2,292429,9
+"94","10220_2_3_6_7_E","10220_2_3_6_7","E",3,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,5,1603,10220,7,6209,25
+"95","10220_2_3_6_7_Agriculture","10220_2_3_6_7","Agriculture",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,180,51,10220,2,292429,0
+"96","10220_2_3_6_7_Developed","10220_2_3_6_7","Developed",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,120,2644,10220,3,56573,4
+"97","10220_2_3_6_7_Developed","10220_2_3_6_7","Developed",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,120,12432,10220,2,292429,4
+"98","10220_2_3_6_7_Developed","10220_2_3_6_7","Developed",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,120,4,10220,7,6209,0
+"99","10220_2_3_6_7_Water","10220_2_3_6_7","Water",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",NA,NA,NA,NA,NA,NA,NA
+"100","10220_2_3_6_7_UN","10220_2_3_6_7","UN",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",NA,NA,NA,NA,NA,NA,NA
+"101","10220_2_3_6_7_UE","10220_2_3_6_7","UE",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",550,7,7,10220,3,56573,0
+"102","10220_2_3_6_7_UE","10220_2_3_6_7","UE",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",763,7,972,10220,2,292429,0
+"103","10220_2_3_6_7_UE","10220_2_3_6_7","UE",0,"Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland",796,7,23,10220,7,6209,0
+"104","10270_2_3_7_A","10270_2_3_7","A",11,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,1,4685,10270,3,76343,6
+"105","10270_2_3_7_A","10270_2_3_7","A",11,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,1,139462,10270,2,2323243,6
+"106","10270_2_3_7_A","10270_2_3_7","A",11,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,1,197883,10270,7,1895460,10
+"107","10270_2_3_7_B","10270_2_3_7","B",4,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,2,21426,10270,3,76343,28
+"108","10270_2_3_7_B","10270_2_3_7","B",4,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,2,885496,10270,2,2323243,38
+"109","10270_2_3_7_B","10270_2_3_7","B",4,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,2,831396,10270,7,1895460,43
+"110","10270_2_3_7_C","10270_2_3_7","C",8,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,3,1420,10270,3,76343,1
+"111","10270_2_3_7_C","10270_2_3_7","C",8,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,3,83233,10270,2,2323243,3
+"112","10270_2_3_7_C","10270_2_3_7","C",8,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,3,193227,10270,7,1895460,10
+"113","10270_2_3_7_D","10270_2_3_7","D",63,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,4,77,10270,3,76343,0
+"114","10270_2_3_7_D","10270_2_3_7","D",63,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,4,5455,10270,2,2323243,0
+"115","10270_2_3_7_D","10270_2_3_7","D",63,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,4,7369,10270,7,1895460,0
+"116","10270_2_3_7_E","10270_2_3_7","E",14,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,5,44529,10270,3,76343,58
+"117","10270_2_3_7_E","10270_2_3_7","E",14,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,5,793765,10270,2,2323243,34
+"118","10270_2_3_7_E","10270_2_3_7","E",14,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,5,523741,10270,7,1895460,27
+"119","10270_2_3_7_Agriculture","10270_2_3_7","Agriculture",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,180,78,10270,3,76343,0
+"120","10270_2_3_7_Agriculture","10270_2_3_7","Agriculture",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,180,84218,10270,2,2323243,3
+"121","10270_2_3_7_Agriculture","10270_2_3_7","Agriculture",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,180,3997,10270,7,1895460,0
+"122","10270_2_3_7_Developed","10270_2_3_7","Developed",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,120,3891,10270,3,76343,5
+"123","10270_2_3_7_Developed","10270_2_3_7","Developed",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,120,260323,10270,2,2323243,11
+"124","10270_2_3_7_Developed","10270_2_3_7","Developed",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,120,27620,10270,7,1895460,1
+"125","10270_2_3_7_Water","10270_2_3_7","Water",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"126","10270_2_3_7_UN","10270_2_3_7","UN",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"127","10270_2_3_7_UE","10270_2_3_7","UE",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",551,7,150,10270,3,76343,0
+"128","10270_2_3_7_UE","10270_2_3_7","UE",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",764,7,70864,10270,2,2323243,3
+"129","10270_2_3_7_UE","10270_2_3_7","UE",0,"Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland",797,7,106846,10270,7,1895460,5
+"130","10280_2_3_A","10280_2_3","A",16,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,1,20879,10280,3,180068,11
+"131","10280_2_3_A","10280_2_3","A",16,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,1,99892,10280,2,827415,12
+"132","10280_2_3_B","10280_2_3","B",14,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,2,48239,10280,3,180068,26
+"133","10280_2_3_B","10280_2_3","B",14,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,2,266279,10280,2,827415,32
+"134","10280_2_3_C","10280_2_3","C",18,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,3,9788,10280,3,180068,5
+"135","10280_2_3_C","10280_2_3","C",18,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,3,48424,10280,2,827415,5
+"136","10280_2_3_D","10280_2_3","D",35,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,4,636,10280,3,180068,0
+"137","10280_2_3_D","10280_2_3","D",35,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,4,1666,10280,2,827415,0
+"138","10280_2_3_E","10280_2_3","E",17,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,5,92421,10280,3,180068,51
+"139","10280_2_3_E","10280_2_3","E",17,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,5,344815,10280,2,827415,41
+"140","10280_2_3_Agriculture","10280_2_3","Agriculture",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,180,613,10280,2,827415,0
+"141","10280_2_3_Developed","10280_2_3","Developed",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,120,7615,10280,3,180068,4
+"142","10280_2_3_Developed","10280_2_3","Developed",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,120,57190,10280,2,827415,6
+"143","10280_2_3_Water","10280_2_3","Water",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"144","10280_2_3_UN","10280_2_3","UN",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"145","10280_2_3_UE","10280_2_3","UE",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",552,7,62,10280,3,180068,0
+"146","10280_2_3_UE","10280_2_3","UE",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",765,7,8101,10280,2,827415,0
+"147","10280_4_6_7_12_A","10280_4_6_7_12","A",19,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,1,116934,10280,7,1687163,6
+"148","10280_4_6_7_12_B","10280_4_6_7_12","B",14,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,2,427316,10280,7,1687163,25
+"149","10280_4_6_7_12_C","10280_4_6_7_12","C",21,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,3,443378,10280,7,1687163,26
+"150","10280_4_6_7_12_D","10280_4_6_7_12","D",27,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,4,37338,10280,7,1687163,2
+"151","10280_4_6_7_12_E","10280_4_6_7_12","E",19,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,5,613540,10280,7,1687163,36
+"152","10280_4_6_7_12_Agriculture","10280_4_6_7_12","Agriculture",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,180,314,10280,7,1687163,0
+"153","10280_4_6_7_12_Developed","10280_4_6_7_12","Developed",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,120,22891,10280,7,1687163,1
+"154","10280_4_6_7_12_Water","10280_4_6_7_12","Water",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"155","10280_4_6_7_12_UN","10280_4_6_7_12","UN",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"156","10280_4_6_7_12_UE","10280_4_6_7_12","UE",0,"Mediterranean California Mesic Mixed Conifer Forest and Woodland",798,7,22838,10280,7,1687163,1
+"157","10290_2_3_4_5_6_7_12_A","10290_2_3_4_5_6_7_12","A",11,"Mediterranean California Mixed Oak Woodland",766,1,8047,10290,2,68808,11
+"158","10290_2_3_4_5_6_7_12_A","10290_2_3_4_5_6_7_12","A",11,"Mediterranean California Mixed Oak Woodland",799,1,15535,10290,7,74016,20
+"159","10290_2_3_4_5_6_7_12_B","10290_2_3_4_5_6_7_12","B",4,"Mediterranean California Mixed Oak Woodland",766,2,92,10290,2,68808,0
+"160","10290_2_3_4_5_6_7_12_B","10290_2_3_4_5_6_7_12","B",4,"Mediterranean California Mixed Oak Woodland",799,2,112,10290,7,74016,0
+"161","10290_2_3_4_5_6_7_12_C","10290_2_3_4_5_6_7_12","C",21,"Mediterranean California Mixed Oak Woodland",766,3,245,10290,2,68808,0
+"162","10290_2_3_4_5_6_7_12_C","10290_2_3_4_5_6_7_12","C",21,"Mediterranean California Mixed Oak Woodland",799,3,532,10290,7,74016,0
+"163","10290_2_3_4_5_6_7_12_D","10290_2_3_4_5_6_7_12","D",54,"Mediterranean California Mixed Oak Woodland",766,4,2956,10290,2,68808,4
+"164","10290_2_3_4_5_6_7_12_D","10290_2_3_4_5_6_7_12","D",54,"Mediterranean California Mixed Oak Woodland",799,4,4457,10290,7,74016,6
+"165","10290_2_3_4_5_6_7_12_E","10290_2_3_4_5_6_7_12","E",10,"Mediterranean California Mixed Oak Woodland",766,5,5734,10290,2,68808,8
+"166","10290_2_3_4_5_6_7_12_E","10290_2_3_4_5_6_7_12","E",10,"Mediterranean California Mixed Oak Woodland",799,5,4620,10290,7,74016,6
+"167","10290_2_3_4_5_6_7_12_Agriculture","10290_2_3_4_5_6_7_12","Agriculture",0,"Mediterranean California Mixed Oak Woodland",766,180,18218,10290,2,68808,26
+"168","10290_2_3_4_5_6_7_12_Agriculture","10290_2_3_4_5_6_7_12","Agriculture",0,"Mediterranean California Mixed Oak Woodland",799,180,4860,10290,7,74016,6
+"169","10290_2_3_4_5_6_7_12_Developed","10290_2_3_4_5_6_7_12","Developed",0,"Mediterranean California Mixed Oak Woodland",553,120,1,10290,3,3,33
+"170","10290_2_3_4_5_6_7_12_Developed","10290_2_3_4_5_6_7_12","Developed",0,"Mediterranean California Mixed Oak Woodland",766,120,21579,10290,2,68808,31
+"171","10290_2_3_4_5_6_7_12_Developed","10290_2_3_4_5_6_7_12","Developed",0,"Mediterranean California Mixed Oak Woodland",799,120,9961,10290,7,74016,13
+"172","10290_2_3_4_5_6_7_12_Water","10290_2_3_4_5_6_7_12","Water",0,"Mediterranean California Mixed Oak Woodland",NA,NA,NA,NA,NA,NA,NA
+"173","10290_2_3_4_5_6_7_12_UN","10290_2_3_4_5_6_7_12","UN",0,"Mediterranean California Mixed Oak Woodland",553,6,2,10290,3,3,66
+"174","10290_2_3_4_5_6_7_12_UN","10290_2_3_4_5_6_7_12","UN",0,"Mediterranean California Mixed Oak Woodland",766,6,7752,10290,2,68808,11
+"175","10290_2_3_4_5_6_7_12_UN","10290_2_3_4_5_6_7_12","UN",0,"Mediterranean California Mixed Oak Woodland",799,6,10655,10290,7,74016,14
+"176","10290_2_3_4_5_6_7_12_UE","10290_2_3_4_5_6_7_12","UE",0,"Mediterranean California Mixed Oak Woodland",766,7,4149,10290,2,68808,6
+"177","10290_2_3_4_5_6_7_12_UE","10290_2_3_4_5_6_7_12","UE",0,"Mediterranean California Mixed Oak Woodland",799,7,23101,10290,7,74016,31
+"178","10300_2_3_4_5_6_7_A","10300_2_3_4_5_6_7","A",12,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",554,1,1,10300,3,25,4
+"179","10300_2_3_4_5_6_7_A","10300_2_3_4_5_6_7","A",12,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,1,66579,10300,2,1094922,6
+"180","10300_2_3_4_5_6_7_A","10300_2_3_4_5_6_7","A",12,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,1,99161,10300,7,563338,17
+"181","10300_2_3_4_5_6_7_B","10300_2_3_4_5_6_7","B",30,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",554,2,16,10300,3,25,64
+"182","10300_2_3_4_5_6_7_B","10300_2_3_4_5_6_7","B",30,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,2,566557,10300,2,1094922,51
+"183","10300_2_3_4_5_6_7_B","10300_2_3_4_5_6_7","B",30,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,2,86819,10300,7,563338,15
+"184","10300_2_3_4_5_6_7_C","10300_2_3_4_5_6_7","C",58,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",554,3,4,10300,3,25,16
+"185","10300_2_3_4_5_6_7_C","10300_2_3_4_5_6_7","C",58,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,3,182828,10300,2,1094922,16
+"186","10300_2_3_4_5_6_7_C","10300_2_3_4_5_6_7","C",58,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,3,178877,10300,7,563338,31
+"187","10300_2_3_4_5_6_7_D","10300_2_3_4_5_6_7","D",NA,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"188","10300_2_3_4_5_6_7_E","10300_2_3_4_5_6_7","E",NA,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"189","10300_2_3_4_5_6_7_Agriculture","10300_2_3_4_5_6_7","Agriculture",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,180,98515,10300,2,1094922,8
+"190","10300_2_3_4_5_6_7_Agriculture","10300_2_3_4_5_6_7","Agriculture",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,180,101085,10300,7,563338,17
+"191","10300_2_3_4_5_6_7_Developed","10300_2_3_4_5_6_7","Developed",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",554,120,4,10300,3,25,16
+"192","10300_2_3_4_5_6_7_Developed","10300_2_3_4_5_6_7","Developed",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,120,138113,10300,2,1094922,12
+"193","10300_2_3_4_5_6_7_Developed","10300_2_3_4_5_6_7","Developed",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,120,49293,10300,7,563338,8
+"194","10300_2_3_4_5_6_7_Water","10300_2_3_4_5_6_7","Water",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"195","10300_2_3_4_5_6_7_UN","10300_2_3_4_5_6_7","UN",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"196","10300_2_3_4_5_6_7_UE","10300_2_3_4_5_6_7","UE",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",767,7,41102,10300,2,1094922,3
+"197","10300_2_3_4_5_6_7_UE","10300_2_3_4_5_6_7","UE",0,"Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland",800,7,42869,10300,7,563338,7
+"198","10310_2_3_4_5_6_12_A","10310_2_3_4_5_6_12","A",17,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",555,1,61,10310,3,63,96
+"199","10310_2_3_4_5_6_12_A","10310_2_3_4_5_6_12","A",17,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,1,59390,10310,2,92441,64
+"200","10310_2_3_4_5_6_12_B","10310_2_3_4_5_6_12","B",6,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,2,12833,10310,2,92441,13
+"201","10310_2_3_4_5_6_12_C","10310_2_3_4_5_6_12","C",31,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,3,8522,10310,2,92441,9
+"202","10310_2_3_4_5_6_12_D","10310_2_3_4_5_6_12","D",1,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,4,349,10310,2,92441,0
+"203","10310_2_3_4_5_6_12_E","10310_2_3_4_5_6_12","E",45,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,5,3192,10310,2,92441,3
+"204","10310_2_3_4_5_6_12_Agriculture","10310_2_3_4_5_6_12","Agriculture",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,180,159,10310,2,92441,0
+"205","10310_2_3_4_5_6_12_Developed","10310_2_3_4_5_6_12","Developed",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",555,120,2,10310,3,63,3
+"206","10310_2_3_4_5_6_12_Developed","10310_2_3_4_5_6_12","Developed",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,120,5579,10310,2,92441,6
+"207","10310_2_3_4_5_6_12_Water","10310_2_3_4_5_6_12","Water",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",NA,NA,NA,NA,NA,NA,NA
+"208","10310_2_3_4_5_6_12_UN","10310_2_3_4_5_6_12","UN",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",NA,NA,NA,NA,NA,NA,NA
+"209","10310_2_3_4_5_6_12_UE","10310_2_3_4_5_6_12","UE",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",768,7,2021,10310,2,92441,2
+"210","10310_7_A","10310_7","A",6,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,1,2205,10310,7,9391,23
+"211","10310_7_B","10310_7","B",15,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,2,5492,10310,7,9391,58
+"212","10310_7_C","10310_7","C",17,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,3,587,10310,7,9391,6
+"213","10310_7_D","10310_7","D",61,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,4,23,10310,7,9391,0
+"214","10310_7_E","10310_7","E",1,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,5,402,10310,7,9391,4
+"215","10310_7_Agriculture","10310_7","Agriculture",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,180,5,10310,7,9391,0
+"216","10310_7_Developed","10310_7","Developed",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,120,46,10310,7,9391,0
+"217","10310_7_Water","10310_7","Water",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",NA,NA,NA,NA,NA,NA,NA
+"218","10310_7_UN","10310_7","UN",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,6,91,10310,7,9391,0
+"219","10310_7_UE","10310_7","UE",0,"California Montane Jeffrey Pine(-Ponderosa Pine) Woodland",801,7,525,10310,7,9391,5
+"220","10320_2_3_7_A","10320_2_3_7","A",13,"Mediterranean California Red Fir Forest",556,1,9481,10320,3,61282,15
+"221","10320_2_3_7_A","10320_2_3_7","A",13,"Mediterranean California Red Fir Forest",769,1,18735,10320,2,139498,13
+"222","10320_2_3_7_A","10320_2_3_7","A",13,"Mediterranean California Red Fir Forest",802,1,68295,10320,7,546124,12
+"223","10320_2_3_7_B","10320_2_3_7","B",19,"Mediterranean California Red Fir Forest",556,2,39144,10320,3,61282,63
+"224","10320_2_3_7_B","10320_2_3_7","B",19,"Mediterranean California Red Fir Forest",769,2,95417,10320,2,139498,68
+"225","10320_2_3_7_B","10320_2_3_7","B",19,"Mediterranean California Red Fir Forest",802,2,417425,10320,7,546124,76
+"226","10320_2_3_7_C","10320_2_3_7","C",22,"Mediterranean California Red Fir Forest",556,3,9807,10320,3,61282,16
+"227","10320_2_3_7_C","10320_2_3_7","C",22,"Mediterranean California Red Fir Forest",769,3,16786,10320,2,139498,12
+"228","10320_2_3_7_C","10320_2_3_7","C",22,"Mediterranean California Red Fir Forest",802,3,53161,10320,7,546124,9
+"229","10320_2_3_7_D","10320_2_3_7","D",26,"Mediterranean California Red Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"230","10320_2_3_7_E","10320_2_3_7","E",20,"Mediterranean California Red Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"231","10320_2_3_7_Agriculture","10320_2_3_7","Agriculture",0,"Mediterranean California Red Fir Forest",556,180,19,10320,3,61282,0
+"232","10320_2_3_7_Agriculture","10320_2_3_7","Agriculture",0,"Mediterranean California Red Fir Forest",769,180,87,10320,2,139498,0
+"233","10320_2_3_7_Agriculture","10320_2_3_7","Agriculture",0,"Mediterranean California Red Fir Forest",802,180,2,10320,7,546124,0
+"234","10320_2_3_7_Developed","10320_2_3_7","Developed",0,"Mediterranean California Red Fir Forest",556,120,2001,10320,3,61282,3
+"235","10320_2_3_7_Developed","10320_2_3_7","Developed",0,"Mediterranean California Red Fir Forest",769,120,7777,10320,2,139498,5
+"236","10320_2_3_7_Developed","10320_2_3_7","Developed",0,"Mediterranean California Red Fir Forest",802,120,2225,10320,7,546124,0
+"237","10320_2_3_7_Water","10320_2_3_7","Water",0,"Mediterranean California Red Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"238","10320_2_3_7_UN","10320_2_3_7","UN",0,"Mediterranean California Red Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"239","10320_2_3_7_UE","10320_2_3_7","UE",0,"Mediterranean California Red Fir Forest",556,7,2,10320,3,61282,0
+"240","10320_2_3_7_UE","10320_2_3_7","UE",0,"Mediterranean California Red Fir Forest",769,7,12,10320,2,139498,0
+"241","10320_2_3_7_UE","10320_2_3_7","UE",0,"Mediterranean California Red Fir Forest",802,7,2882,10320,7,546124,0
+"242","10330_3_6_7_A","10330_3_6_7","A",40,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"243","10330_3_6_7_B","10330_3_6_7","B",11,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"244","10330_3_6_7_C","10330_3_6_7","C",49,"Mediterranean California Subalpine Woodland",803,3,1,10330,7,5,20
+"245","10330_3_6_7_D","10330_3_6_7","D",NA,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"246","10330_3_6_7_E","10330_3_6_7","E",NA,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"247","10330_3_6_7_Agriculture","10330_3_6_7","Agriculture",0,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"248","10330_3_6_7_Developed","10330_3_6_7","Developed",0,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"249","10330_3_6_7_Water","10330_3_6_7","Water",0,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"250","10330_3_6_7_UN","10330_3_6_7","UN",0,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"251","10330_3_6_7_UE","10330_3_6_7","UE",0,"Mediterranean California Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"252","10350_1_2_7_A","10350_1_2_7","A",6,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,1,11641,10350,2,200243,5
+"253","10350_1_2_7_A","10350_1_2_7","A",6,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,1,294,10350,7,4353,6
+"254","10350_1_2_7_B","10350_1_2_7","B",10,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,2,70983,10350,2,200243,35
+"255","10350_1_2_7_B","10350_1_2_7","B",10,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,2,2540,10350,7,4353,58
+"256","10350_1_2_7_C","10350_1_2_7","C",9,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,3,7509,10350,2,200243,3
+"257","10350_1_2_7_C","10350_1_2_7","C",9,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,3,360,10350,7,4353,8
+"258","10350_1_2_7_D","10350_1_2_7","D",44,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,4,637,10350,2,200243,0
+"259","10350_1_2_7_D","10350_1_2_7","D",44,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,4,10,10350,7,4353,0
+"260","10350_1_2_7_E","10350_1_2_7","E",31,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,5,50211,10350,2,200243,25
+"261","10350_1_2_7_E","10350_1_2_7","E",31,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,5,990,10350,7,4353,22
+"262","10350_1_2_7_Agriculture","10350_1_2_7","Agriculture",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,180,28109,10350,2,200243,14
+"263","10350_1_2_7_Agriculture","10350_1_2_7","Agriculture",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,180,10,10350,7,4353,0
+"264","10350_1_2_7_Developed","10350_1_2_7","Developed",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,120,23066,10350,2,200243,11
+"265","10350_1_2_7_Developed","10350_1_2_7","Developed",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,120,41,10350,7,4353,0
+"266","10350_1_2_7_Water","10350_1_2_7","Water",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"267","10350_1_2_7_UN","10350_1_2_7","UN",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"268","10350_1_2_7_UE","10350_1_2_7","UE",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",770,7,7812,10350,2,200243,3
+"269","10350_1_2_7_UE","10350_1_2_7","UE",0,"North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland",805,7,91,10350,7,4353,2
+"270","10360_1_2_A","10360_1_2","A",5,"North Pacific Hypermaritime Sitka Spruce Forest",771,1,4447,10360,2,75183,5
+"271","10360_1_2_B","10360_1_2","B",9,"North Pacific Hypermaritime Sitka Spruce Forest",771,2,35338,10360,2,75183,47
+"272","10360_1_2_C","10360_1_2","C",2,"North Pacific Hypermaritime Sitka Spruce Forest",771,3,1335,10360,2,75183,1
+"273","10360_1_2_D","10360_1_2","D",11,"North Pacific Hypermaritime Sitka Spruce Forest",771,4,3305,10360,2,75183,4
+"274","10360_1_2_E","10360_1_2","E",73,"North Pacific Hypermaritime Sitka Spruce Forest",771,5,16156,10360,2,75183,21
+"275","10360_1_2_Agriculture","10360_1_2","Agriculture",0,"North Pacific Hypermaritime Sitka Spruce Forest",771,180,662,10360,2,75183,0
+"276","10360_1_2_Developed","10360_1_2","Developed",0,"North Pacific Hypermaritime Sitka Spruce Forest",771,120,11154,10360,2,75183,14
+"277","10360_1_2_Water","10360_1_2","Water",0,"North Pacific Hypermaritime Sitka Spruce Forest",NA,NA,NA,NA,NA,NA,NA
+"278","10360_1_2_UN","10360_1_2","UN",0,"North Pacific Hypermaritime Sitka Spruce Forest",NA,NA,NA,NA,NA,NA,NA
+"279","10360_1_2_UE","10360_1_2","UE",0,"North Pacific Hypermaritime Sitka Spruce Forest",771,7,2685,10360,2,75183,3
+"280","10370_1_2_7_A","10370_1_2_7","A",6,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,1,18695,10370,2,259814,7
+"281","10370_1_2_7_A","10370_1_2_7","A",6,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,1,12686,10370,7,372552,3
+"282","10370_1_2_7_B","10370_1_2_7","B",17,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,2,92311,10370,2,259814,35
+"283","10370_1_2_7_B","10370_1_2_7","B",17,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,2,91679,10370,7,372552,24
+"284","10370_1_2_7_C","10370_1_2_7","C",6,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,3,37826,10370,2,259814,14
+"285","10370_1_2_7_C","10370_1_2_7","C",6,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,3,79161,10370,7,372552,21
+"286","10370_1_2_7_D","10370_1_2_7","D",16,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,4,8180,10370,2,259814,3
+"287","10370_1_2_7_D","10370_1_2_7","D",16,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,4,18410,10370,7,372552,4
+"288","10370_1_2_7_E","10370_1_2_7","E",55,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,5,69453,10370,2,259814,26
+"289","10370_1_2_7_E","10370_1_2_7","E",55,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,5,157505,10370,7,372552,42
+"290","10370_1_2_7_Agriculture","10370_1_2_7","Agriculture",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,180,1205,10370,2,259814,0
+"291","10370_1_2_7_Agriculture","10370_1_2_7","Agriculture",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,180,379,10370,7,372552,0
+"292","10370_1_2_7_Developed","10370_1_2_7","Developed",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,120,19230,10370,2,259814,7
+"293","10370_1_2_7_Developed","10370_1_2_7","Developed",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,120,2981,10370,7,372552,0
+"294","10370_1_2_7_Water","10370_1_2_7","Water",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"295","10370_1_2_7_UN","10370_1_2_7","UN",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"296","10370_1_2_7_UE","10370_1_2_7","UE",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",772,7,12753,10370,2,259814,4
+"297","10370_1_2_7_UE","10370_1_2_7","UE",0,"North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest",806,7,9247,10370,7,372552,2
+"298","10380_1_7_A","10380_1_7","A",94,"North Pacific Maritime Mesic Subalpine Parkland",807,1,60,10380,7,289,20
+"299","10380_1_7_B","10380_1_7","B",6,"North Pacific Maritime Mesic Subalpine Parkland",807,2,176,10380,7,289,60
+"300","10380_1_7_C","10380_1_7","C",NA,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"301","10380_1_7_D","10380_1_7","D",NA,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"302","10380_1_7_E","10380_1_7","E",NA,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"303","10380_1_7_Agriculture","10380_1_7","Agriculture",0,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"304","10380_1_7_Developed","10380_1_7","Developed",0,"North Pacific Maritime Mesic Subalpine Parkland",807,120,12,10380,7,289,4
+"305","10380_1_7_Water","10380_1_7","Water",0,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"306","10380_1_7_UN","10380_1_7","UN",0,"North Pacific Maritime Mesic Subalpine Parkland",NA,NA,NA,NA,NA,NA,NA
+"307","10380_1_7_UE","10380_1_7","UE",0,"North Pacific Maritime Mesic Subalpine Parkland",807,7,17,10380,7,289,5
+"308","10390_1_2_3_7_A","10390_1_2_3_7","A",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,1,46,10390,3,433,10
+"309","10390_1_2_3_7_A","10390_1_2_3_7","A",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,1,12391,10390,2,325677,3
+"310","10390_1_2_3_7_A","10390_1_2_3_7","A",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,1,99,10390,7,5633,1
+"311","10390_1_2_3_7_B","10390_1_2_3_7","B",14,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,2,104,10390,3,433,24
+"312","10390_1_2_3_7_B","10390_1_2_3_7","B",14,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,2,109617,10390,2,325677,33
+"313","10390_1_2_3_7_B","10390_1_2_3_7","B",14,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,2,801,10390,7,5633,14
+"314","10390_1_2_3_7_C","10390_1_2_3_7","C",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,3,88,10390,3,433,20
+"315","10390_1_2_3_7_C","10390_1_2_3_7","C",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,3,33210,10390,2,325677,10
+"316","10390_1_2_3_7_C","10390_1_2_3_7","C",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,3,1560,10390,7,5633,27
+"317","10390_1_2_3_7_D","10390_1_2_3_7","D",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,4,56,10390,3,433,12
+"318","10390_1_2_3_7_D","10390_1_2_3_7","D",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,4,5884,10390,2,325677,1
+"319","10390_1_2_3_7_D","10390_1_2_3_7","D",5,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,4,493,10390,7,5633,8
+"320","10390_1_2_3_7_E","10390_1_2_3_7","E",71,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,5,97,10390,3,433,22
+"321","10390_1_2_3_7_E","10390_1_2_3_7","E",71,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,5,135328,10390,2,325677,41
+"322","10390_1_2_3_7_E","10390_1_2_3_7","E",71,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,5,2546,10390,7,5633,45
+"323","10390_1_2_3_7_Agriculture","10390_1_2_3_7","Agriculture",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,180,209,10390,2,325677,0
+"324","10390_1_2_3_7_Agriculture","10390_1_2_3_7","Agriculture",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,180,63,10390,7,5633,1
+"325","10390_1_2_3_7_Developed","10390_1_2_3_7","Developed",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",558,120,42,10390,3,433,9
+"326","10390_1_2_3_7_Developed","10390_1_2_3_7","Developed",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,120,18781,10390,2,325677,5
+"327","10390_1_2_3_7_Developed","10390_1_2_3_7","Developed",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,120,7,10390,7,5633,0
+"328","10390_1_2_3_7_Water","10390_1_2_3_7","Water",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"329","10390_1_2_3_7_UN","10390_1_2_3_7","UN",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"330","10390_1_2_3_7_UE","10390_1_2_3_7","UE",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",773,7,10207,10390,2,325677,3
+"331","10390_1_2_3_7_UE","10390_1_2_3_7","UE",0,"North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest",808,7,62,10390,7,5633,1
+"332","10412_1_7_A","10412_1_7","A",16,"North Pacific Mountain Hemlock Forest - Xeric",810,1,48286,10412,7,271862,17
+"333","10412_1_7_B","10412_1_7","B",19,"North Pacific Mountain Hemlock Forest - Xeric",810,2,118255,10412,7,271862,43
+"334","10412_1_7_C","10412_1_7","C",21,"North Pacific Mountain Hemlock Forest - Xeric",810,3,36411,10412,7,271862,13
+"335","10412_1_7_D","10412_1_7","D",11,"North Pacific Mountain Hemlock Forest - Xeric",810,4,4093,10412,7,271862,1
+"336","10412_1_7_E","10412_1_7","E",33,"North Pacific Mountain Hemlock Forest - Xeric",810,5,56327,10412,7,271862,20
+"337","10412_1_7_Agriculture","10412_1_7","Agriculture",0,"North Pacific Mountain Hemlock Forest - Xeric",810,180,1,10412,7,271862,0
+"338","10412_1_7_Developed","10412_1_7","Developed",0,"North Pacific Mountain Hemlock Forest - Xeric",810,120,1332,10412,7,271862,0
+"339","10412_1_7_Water","10412_1_7","Water",0,"North Pacific Mountain Hemlock Forest - Xeric",NA,NA,NA,NA,NA,NA,NA
+"340","10412_1_7_UN","10412_1_7","UN",0,"North Pacific Mountain Hemlock Forest - Xeric",NA,NA,NA,NA,NA,NA,NA
+"341","10412_1_7_UE","10412_1_7","UE",0,"North Pacific Mountain Hemlock Forest - Xeric",810,7,3198,10412,7,271862,1
+"342","10420_1_7_A","10420_1_7","A",2,"North Pacific Mesic Western Hemlock-Silver Fir Forest",811,1,12,10420,7,267,4
+"343","10420_1_7_B","10420_1_7","B",11,"North Pacific Mesic Western Hemlock-Silver Fir Forest",811,2,3,10420,7,267,1
+"344","10420_1_7_C","10420_1_7","C",1,"North Pacific Mesic Western Hemlock-Silver Fir Forest",811,3,154,10420,7,267,57
+"345","10420_1_7_D","10420_1_7","D",4,"North Pacific Mesic Western Hemlock-Silver Fir Forest",811,4,84,10420,7,267,31
+"346","10420_1_7_E","10420_1_7","E",82,"North Pacific Mesic Western Hemlock-Silver Fir Forest",811,5,14,10420,7,267,5
+"347","10420_1_7_Agriculture","10420_1_7","Agriculture",0,"North Pacific Mesic Western Hemlock-Silver Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"348","10420_1_7_Developed","10420_1_7","Developed",0,"North Pacific Mesic Western Hemlock-Silver Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"349","10420_1_7_Water","10420_1_7","Water",0,"North Pacific Mesic Western Hemlock-Silver Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"350","10420_1_7_UN","10420_1_7","UN",0,"North Pacific Mesic Western Hemlock-Silver Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"351","10420_1_7_UE","10420_1_7","UE",0,"North Pacific Mesic Western Hemlock-Silver Fir Forest",NA,NA,NA,NA,NA,NA,NA
+"352","10431_2_3_6_7_A","10431_2_3_6_7","A",17,"Mediterranean California Mixed Evergreen Forest - Interior",812,1,219,10431,7,3581,6
+"353","10431_2_3_6_7_A","10431_2_3_6_7","A",17,"Mediterranean California Mixed Evergreen Forest - Interior",2720,1,290146,10431,2,3951300,7
+"354","10431_2_3_6_7_A","10431_2_3_6_7","A",17,"Mediterranean California Mixed Evergreen Forest - Interior",2722,1,30179,10431,3,95502,31
+"355","10431_2_3_6_7_B","10431_2_3_6_7","B",17,"Mediterranean California Mixed Evergreen Forest - Interior",812,2,1677,10431,7,3581,46
+"356","10431_2_3_6_7_B","10431_2_3_6_7","B",17,"Mediterranean California Mixed Evergreen Forest - Interior",2720,2,1624855,10431,2,3951300,41
+"357","10431_2_3_6_7_B","10431_2_3_6_7","B",17,"Mediterranean California Mixed Evergreen Forest - Interior",2722,2,32867,10431,3,95502,34
+"358","10431_2_3_6_7_C","10431_2_3_6_7","C",19,"Mediterranean California Mixed Evergreen Forest - Interior",812,3,254,10431,7,3581,7
+"359","10431_2_3_6_7_C","10431_2_3_6_7","C",19,"Mediterranean California Mixed Evergreen Forest - Interior",2720,3,361015,10431,2,3951300,9
+"360","10431_2_3_6_7_C","10431_2_3_6_7","C",19,"Mediterranean California Mixed Evergreen Forest - Interior",2722,3,5223,10431,3,95502,5
+"361","10431_2_3_6_7_D","10431_2_3_6_7","D",27,"Mediterranean California Mixed Evergreen Forest - Interior",812,4,6,10431,7,3581,0
+"362","10431_2_3_6_7_D","10431_2_3_6_7","D",27,"Mediterranean California Mixed Evergreen Forest - Interior",2720,4,18178,10431,2,3951300,0
+"363","10431_2_3_6_7_D","10431_2_3_6_7","D",27,"Mediterranean California Mixed Evergreen Forest - Interior",2722,4,202,10431,3,95502,0
+"364","10431_2_3_6_7_E","10431_2_3_6_7","E",20,"Mediterranean California Mixed Evergreen Forest - Interior",812,5,1124,10431,7,3581,31
+"365","10431_2_3_6_7_E","10431_2_3_6_7","E",20,"Mediterranean California Mixed Evergreen Forest - Interior",2720,5,1344474,10431,2,3951300,34
+"366","10431_2_3_6_7_E","10431_2_3_6_7","E",20,"Mediterranean California Mixed Evergreen Forest - Interior",2722,5,22856,10431,3,95502,23
+"367","10431_2_3_6_7_Agriculture","10431_2_3_6_7","Agriculture",0,"Mediterranean California Mixed Evergreen Forest - Interior",812,180,7,10431,7,3581,0
+"368","10431_2_3_6_7_Agriculture","10431_2_3_6_7","Agriculture",0,"Mediterranean California Mixed Evergreen Forest - Interior",2720,180,19053,10431,2,3951300,0
+"369","10431_2_3_6_7_Agriculture","10431_2_3_6_7","Agriculture",0,"Mediterranean California Mixed Evergreen Forest - Interior",2722,180,57,10431,3,95502,0
+"370","10431_2_3_6_7_Developed","10431_2_3_6_7","Developed",0,"Mediterranean California Mixed Evergreen Forest - Interior",812,120,133,10431,7,3581,3
+"371","10431_2_3_6_7_Developed","10431_2_3_6_7","Developed",0,"Mediterranean California Mixed Evergreen Forest - Interior",2720,120,208509,10431,2,3951300,5
+"372","10431_2_3_6_7_Developed","10431_2_3_6_7","Developed",0,"Mediterranean California Mixed Evergreen Forest - Interior",2722,120,3655,10431,3,95502,3
+"373","10431_2_3_6_7_Water","10431_2_3_6_7","Water",0,"Mediterranean California Mixed Evergreen Forest - Interior",NA,NA,NA,NA,NA,NA,NA
+"374","10431_2_3_6_7_UN","10431_2_3_6_7","UN",0,"Mediterranean California Mixed Evergreen Forest - Interior",NA,NA,NA,NA,NA,NA,NA
+"375","10431_2_3_6_7_UE","10431_2_3_6_7","UE",0,"Mediterranean California Mixed Evergreen Forest - Interior",812,7,158,10431,7,3581,4
+"376","10431_2_3_6_7_UE","10431_2_3_6_7","UE",0,"Mediterranean California Mixed Evergreen Forest - Interior",2720,7,83004,10431,2,3951300,2
+"377","10431_2_3_6_7_UE","10431_2_3_6_7","UE",0,"Mediterranean California Mixed Evergreen Forest - Interior",2722,7,427,10431,3,95502,0
+"378","10432_2_3_A","10432_2_3","A",12,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,1,51300,10432,2,1276404,4
+"379","10432_2_3_B","10432_2_3","B",16,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,2,632544,10432,2,1276404,49
+"380","10432_2_3_C","10432_2_3","C",15,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,3,39563,10432,2,1276404,3
+"381","10432_2_3_D","10432_2_3","D",30,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,4,2920,10432,2,1276404,0
+"382","10432_2_3_E","10432_2_3","E",27,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,5,373728,10432,2,1276404,29
+"383","10432_2_3_Agriculture","10432_2_3","Agriculture",0,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,180,6651,10432,2,1276404,0
+"384","10432_2_3_Developed","10432_2_3","Developed",0,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,120,111812,10432,2,1276404,8
+"385","10432_2_3_Water","10432_2_3","Water",0,"Mediterranean California Mixed Evergreen Forest - Coastal",NA,NA,NA,NA,NA,NA,NA
+"386","10432_2_3_UN","10432_2_3","UN",0,"Mediterranean California Mixed Evergreen Forest - Coastal",NA,NA,NA,NA,NA,NA,NA
+"387","10432_2_3_UE","10432_2_3","UE",0,"Mediterranean California Mixed Evergreen Forest - Coastal",2719,7,55849,10432,2,1276404,4
+"388","10440_3_6_7_A","10440_3_6_7","A",3,"Northern California Mesic Subalpine Woodland",560,1,158,10440,3,4900,3
+"389","10440_3_6_7_A","10440_3_6_7","A",3,"Northern California Mesic Subalpine Woodland",813,1,14,10440,7,1554,0
+"390","10440_3_6_7_B","10440_3_6_7","B",8,"Northern California Mesic Subalpine Woodland",813,2,3,10440,7,1554,0
+"391","10440_3_6_7_C","10440_3_6_7","C",13,"Northern California Mesic Subalpine Woodland",560,3,117,10440,3,4900,2
+"392","10440_3_6_7_C","10440_3_6_7","C",13,"Northern California Mesic Subalpine Woodland",813,3,6,10440,7,1554,0
+"393","10440_3_6_7_D","10440_3_6_7","D",29,"Northern California Mesic Subalpine Woodland",560,4,3395,10440,3,4900,69
+"394","10440_3_6_7_D","10440_3_6_7","D",29,"Northern California Mesic Subalpine Woodland",813,4,754,10440,7,1554,48
+"395","10440_3_6_7_E","10440_3_6_7","E",47,"Northern California Mesic Subalpine Woodland",560,5,936,10440,3,4900,19
+"396","10440_3_6_7_E","10440_3_6_7","E",47,"Northern California Mesic Subalpine Woodland",813,5,647,10440,7,1554,41
+"397","10440_3_6_7_Agriculture","10440_3_6_7","Agriculture",0,"Northern California Mesic Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"398","10440_3_6_7_Developed","10440_3_6_7","Developed",0,"Northern California Mesic Subalpine Woodland",560,120,279,10440,3,4900,5
+"399","10440_3_6_7_Developed","10440_3_6_7","Developed",0,"Northern California Mesic Subalpine Woodland",813,120,15,10440,7,1554,0
+"400","10440_3_6_7_Water","10440_3_6_7","Water",0,"Northern California Mesic Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"401","10440_3_6_7_UN","10440_3_6_7","UN",0,"Northern California Mesic Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"402","10440_3_6_7_UE","10440_3_6_7","UE",0,"Northern California Mesic Subalpine Woodland",NA,NA,NA,NA,NA,NA,NA
+"403","10450_1_7_8_9_A","10450_1_7_8_9","A",9,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,1,17,10450,7,1019,1
+"404","10450_1_7_8_9_B","10450_1_7_8_9","B",11,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,2,464,10450,7,1019,45
+"405","10450_1_7_8_9_C","10450_1_7_8_9","C",39,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,3,42,10450,7,1019,4
+"406","10450_1_7_8_9_D","10450_1_7_8_9","D",32,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,4,4,10450,7,1019,0
+"407","10450_1_7_8_9_E","10450_1_7_8_9","E",9,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,5,452,10450,7,1019,44
+"408","10450_1_7_8_9_Agriculture","10450_1_7_8_9","Agriculture",0,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",NA,NA,NA,NA,NA,NA,NA
+"409","10450_1_7_8_9_Developed","10450_1_7_8_9","Developed",0,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,120,25,10450,7,1019,2
+"410","10450_1_7_8_9_Water","10450_1_7_8_9","Water",0,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",NA,NA,NA,NA,NA,NA,NA
+"411","10450_1_7_8_9_UN","10450_1_7_8_9","UN",0,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",NA,NA,NA,NA,NA,NA,NA
+"412","10450_1_7_8_9_UE","10450_1_7_8_9","UE",0,"Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest",814,7,15,10450,7,1019,1
+"413","10460_1_7_9_A","10460_1_7_9","A",25,"Northern Rocky Mountain Subalpine Woodland and Parkland",815,1,10,10460,7,255,3
+"414","10460_1_7_9_B","10460_1_7_9","B",22,"Northern Rocky Mountain Subalpine Woodland and Parkland",815,2,228,10460,7,255,89
+"415","10460_1_7_9_C","10460_1_7_9","C",53,"Northern Rocky Mountain Subalpine Woodland and Parkland",815,3,13,10460,7,255,5
+"416","10460_1_7_9_D","10460_1_7_9","D",NA,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"417","10460_1_7_9_E","10460_1_7_9","E",NA,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"418","10460_1_7_9_Agriculture","10460_1_7_9","Agriculture",0,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"419","10460_1_7_9_Developed","10460_1_7_9","Developed",0,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"420","10460_1_7_9_Water","10460_1_7_9","Water",0,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"421","10460_1_7_9_UN","10460_1_7_9","UN",0,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"422","10460_1_7_9_UE","10460_1_7_9","UE",0,"Northern Rocky Mountain Subalpine Woodland and Parkland",NA,NA,NA,NA,NA,NA,NA
+"423","10531_1_7_8_9_A","10531_1_7_8_9","A",13,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,1,322,10531,7,4639,6
+"424","10531_1_7_8_9_B","10531_1_7_8_9","B",9,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,2,2407,10531,7,4639,51
+"425","10531_1_7_8_9_C","10531_1_7_8_9","C",25,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,3,1025,10531,7,4639,22
+"426","10531_1_7_8_9_D","10531_1_7_8_9","D",47,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,4,32,10531,7,4639,0
+"427","10531_1_7_8_9_E","10531_1_7_8_9","E",6,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,5,735,10531,7,4639,15
+"428","10531_1_7_8_9_Agriculture","10531_1_7_8_9","Agriculture",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",NA,NA,NA,NA,NA,NA,NA
+"429","10531_1_7_8_9_Developed","10531_1_7_8_9","Developed",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,120,60,10531,7,4639,1
+"430","10531_1_7_8_9_Water","10531_1_7_8_9","Water",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",NA,NA,NA,NA,NA,NA,NA
+"431","10531_1_7_8_9_UN","10531_1_7_8_9","UN",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,6,1,10531,7,4639,0
+"432","10531_1_7_8_9_UE","10531_1_7_8_9","UE",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Mesic",816,7,37,10531,7,4639,0
+"433","10532_7_9_A","10532_7_9","A",15,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",817,1,6,10532,7,37,16
+"434","10532_7_9_B","10532_7_9","B",9,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",817,2,20,10532,7,37,54
+"435","10532_7_9_C","10532_7_9","C",27,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"436","10532_7_9_D","10532_7_9","D",46,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"437","10532_7_9_E","10532_7_9","E",3,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",817,5,10,10532,7,37,27
+"438","10532_7_9_Agriculture","10532_7_9","Agriculture",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"439","10532_7_9_Developed","10532_7_9","Developed",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"440","10532_7_9_Water","10532_7_9","Water",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"441","10532_7_9_UN","10532_7_9","UN",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",NA,NA,NA,NA,NA,NA,NA
+"442","10532_7_9_UE","10532_7_9","UE",0,"Northern Rocky Mountain Ponderosa Pine Woodland and Savanna - Xeric",817,7,1,10532,7,37,2
+"443","10560_1_7_8_9_A","10560_1_7_8_9","A",20,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",818,1,90,10560,7,1131,7
+"444","10560_1_7_8_9_B","10560_1_7_8_9","B",12,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",818,2,374,10560,7,1131,33
+"445","10560_1_7_8_9_C","10560_1_7_8_9","C",38,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"446","10560_1_7_8_9_D","10560_1_7_8_9","D",23,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",818,4,58,10560,7,1131,5
+"447","10560_1_7_8_9_E","10560_1_7_8_9","E",7,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",818,5,602,10560,7,1131,53
+"448","10560_1_7_8_9_Agriculture","10560_1_7_8_9","Agriculture",0,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"449","10560_1_7_8_9_Developed","10560_1_7_8_9","Developed",0,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",818,120,5,10560,7,1131,0
+"450","10560_1_7_8_9_Water","10560_1_7_8_9","Water",0,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"451","10560_1_7_8_9_UN","10560_1_7_8_9","UN",0,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"452","10560_1_7_8_9_UE","10560_1_7_8_9","UE",0,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"453","10580_7_A","10580_7","A",15,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",819,1,24,10580,7,399,6
+"454","10580_7_B","10580_7","B",47,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"455","10580_7_C","10580_7","C",38,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",819,3,197,10580,7,399,49
+"456","10580_7_D","10580_7","D",NA,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"457","10580_7_E","10580_7","E",NA,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"458","10580_7_Agriculture","10580_7","Agriculture",0,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"459","10580_7_Developed","10580_7","Developed",0,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",819,120,11,10580,7,399,2
+"460","10580_7_Water","10580_7","Water",0,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"461","10580_7_UN","10580_7","UN",0,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"462","10580_7_UE","10580_7","UE",0,"Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"463","10600_1_2_7_A","10600_1_2_7","A",10,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,1,6882,10600,2,125042,5
+"464","10600_1_2_7_A","10600_1_2_7","A",10,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,1,88593,10600,7,347819,25
+"465","10600_1_2_7_B","10600_1_2_7","B",7,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,2,51527,10600,2,125042,41
+"466","10600_1_2_7_B","10600_1_2_7","B",7,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,2,111388,10600,7,347819,32
+"467","10600_1_2_7_C","10600_1_2_7","C",8,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,3,6573,10600,2,125042,5
+"468","10600_1_2_7_C","10600_1_2_7","C",8,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,3,49713,10600,7,347819,14
+"469","10600_1_2_7_D","10600_1_2_7","D",66,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,4,219,10600,2,125042,0
+"470","10600_1_2_7_D","10600_1_2_7","D",66,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,4,2176,10600,7,347819,0
+"471","10600_1_2_7_E","10600_1_2_7","E",9,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,5,24842,10600,2,125042,19
+"472","10600_1_2_7_E","10600_1_2_7","E",9,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,5,57313,10600,7,347819,16
+"473","10600_1_2_7_Agriculture","10600_1_2_7","Agriculture",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,180,12006,10600,2,125042,9
+"474","10600_1_2_7_Agriculture","10600_1_2_7","Agriculture",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,180,4128,10600,7,347819,1
+"475","10600_1_2_7_Developed","10600_1_2_7","Developed",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,120,16743,10600,2,125042,13
+"476","10600_1_2_7_Developed","10600_1_2_7","Developed",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,120,8914,10600,7,347819,2
+"477","10600_1_2_7_Water","10600_1_2_7","Water",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"478","10600_1_2_7_UN","10600_1_2_7","UN",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,6,31,10600,2,125042,0
+"479","10600_1_2_7_UN","10600_1_2_7","UN",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,6,541,10600,7,347819,0
+"480","10600_1_2_7_UE","10600_1_2_7","UE",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",775,7,6099,10600,2,125042,4
+"481","10600_1_2_7_UE","10600_1_2_7","UE",0,"East Cascades Oak-Ponderosa Pine Forest and Woodland",820,7,23778,10600,7,347819,6
+"482","10620_7_9_A","10620_7_9","A",4,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,1,567,10620,7,6415,8
+"483","10620_7_9_B","10620_7_9","B",12,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,2,638,10620,7,6415,9
+"484","10620_7_9_C","10620_7_9","C",14,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,3,1514,10620,7,6415,23
+"485","10620_7_9_D","10620_7_9","D",41,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,4,36,10620,7,6415,0
+"486","10620_7_9_E","10620_7_9","E",29,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,5,3231,10620,7,6415,50
+"487","10620_7_9_Agriculture","10620_7_9","Agriculture",0,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,180,2,10620,7,6415,0
+"488","10620_7_9_Developed","10620_7_9","Developed",0,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,120,174,10620,7,6415,2
+"489","10620_7_9_Water","10620_7_9","Water",0,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"490","10620_7_9_UN","10620_7_9","UN",0,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"491","10620_7_9_UE","10620_7_9","UE",0,"Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland",821,7,252,10620,7,6415,3
+"492","10630_2_7_A","10630_2_7","A",39,"North Pacific Broadleaf Landslide Forest and Shrubland",822,1,1,10630,7,49,2
+"493","10630_2_7_B","10630_2_7","B",61,"North Pacific Broadleaf Landslide Forest and Shrubland",776,2,9,10630,2,9,100
+"494","10630_2_7_B","10630_2_7","B",61,"North Pacific Broadleaf Landslide Forest and Shrubland",822,2,3,10630,7,49,6
+"495","10630_2_7_C","10630_2_7","C",NA,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"496","10630_2_7_D","10630_2_7","D",NA,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"497","10630_2_7_E","10630_2_7","E",NA,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"498","10630_2_7_Agriculture","10630_2_7","Agriculture",0,"North Pacific Broadleaf Landslide Forest and Shrubland",822,180,24,10630,7,49,48
+"499","10630_2_7_Developed","10630_2_7","Developed",0,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"500","10630_2_7_Water","10630_2_7","Water",0,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"501","10630_2_7_UN","10630_2_7","UN",0,"North Pacific Broadleaf Landslide Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"502","10630_2_7_UE","10630_2_7","UE",0,"North Pacific Broadleaf Landslide Forest and Shrubland",822,7,2,10630,7,49,4
+"503","10680_1_7_A","10680_1_7","A",100,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",823,1,826,10680,7,1187,69
+"504","10680_1_7_B","10680_1_7","B",NA,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"505","10680_1_7_C","10680_1_7","C",NA,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"506","10680_1_7_D","10680_1_7","D",NA,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"507","10680_1_7_E","10680_1_7","E",NA,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"508","10680_1_7_Agriculture","10680_1_7","Agriculture",0,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"509","10680_1_7_Developed","10680_1_7","Developed",0,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",823,120,261,10680,7,1187,21
+"510","10680_1_7_Water","10680_1_7","Water",0,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",NA,NA,NA,NA,NA,NA,NA
+"511","10680_1_7_UN","10680_1_7","UN",0,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",823,6,8,10680,7,1187,0
+"512","10680_1_7_UE","10680_1_7","UE",0,"North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow",823,7,67,10680,7,1187,5
+"513","10800_1_7_8_9_A","10800_1_7_8_9","A",19,"Inter-Mountain Basins Big Sagebrush Shrubland",824,1,4,10800,7,2632,0
+"514","10800_1_7_8_9_B","10800_1_7_8_9","B",52,"Inter-Mountain Basins Big Sagebrush Shrubland",824,2,26,10800,7,2632,0
+"515","10800_1_7_8_9_C","10800_1_7_8_9","C",29,"Inter-Mountain Basins Big Sagebrush Shrubland",824,3,213,10800,7,2632,8
+"516","10800_1_7_8_9_D","10800_1_7_8_9","D",NA,"Inter-Mountain Basins Big Sagebrush Shrubland",NA,NA,NA,NA,NA,NA,NA
+"517","10800_1_7_8_9_E","10800_1_7_8_9","E",NA,"Inter-Mountain Basins Big Sagebrush Shrubland",NA,NA,NA,NA,NA,NA,NA
+"518","10800_1_7_8_9_Agriculture","10800_1_7_8_9","Agriculture",0,"Inter-Mountain Basins Big Sagebrush Shrubland",824,180,11,10800,7,2632,0
+"519","10800_1_7_8_9_Developed","10800_1_7_8_9","Developed",0,"Inter-Mountain Basins Big Sagebrush Shrubland",824,120,70,10800,7,2632,2
+"520","10800_1_7_8_9_Water","10800_1_7_8_9","Water",0,"Inter-Mountain Basins Big Sagebrush Shrubland",NA,NA,NA,NA,NA,NA,NA
+"521","10800_1_7_8_9_UN","10800_1_7_8_9","UN",0,"Inter-Mountain Basins Big Sagebrush Shrubland",824,6,1972,10800,7,2632,74
+"522","10800_1_7_8_9_UE","10800_1_7_8_9","UE",0,"Inter-Mountain Basins Big Sagebrush Shrubland",824,7,323,10800,7,2632,12
+"523","10970_3_6_7_A","10970_3_6_7","A",14,"California Mesic Chaparral",562,1,34,10970,3,89,38
+"524","10970_3_6_7_A","10970_3_6_7","A",14,"California Mesic Chaparral",826,1,36,10970,7,76,47
+"525","10970_3_6_7_B","10970_3_6_7","B",86,"California Mesic Chaparral",562,2,26,10970,3,89,29
+"526","10970_3_6_7_B","10970_3_6_7","B",86,"California Mesic Chaparral",826,2,9,10970,7,76,11
+"527","10970_3_6_7_C","10970_3_6_7","C",NA,"California Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"528","10970_3_6_7_D","10970_3_6_7","D",NA,"California Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"529","10970_3_6_7_E","10970_3_6_7","E",NA,"California Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"530","10970_3_6_7_Agriculture","10970_3_6_7","Agriculture",0,"California Mesic Chaparral",562,180,4,10970,3,89,4
+"531","10970_3_6_7_Agriculture","10970_3_6_7","Agriculture",0,"California Mesic Chaparral",826,180,10,10970,7,76,13
+"532","10970_3_6_7_Developed","10970_3_6_7","Developed",0,"California Mesic Chaparral",562,120,3,10970,3,89,3
+"533","10970_3_6_7_Developed","10970_3_6_7","Developed",0,"California Mesic Chaparral",826,120,16,10970,7,76,21
+"534","10970_3_6_7_Water","10970_3_6_7","Water",0,"California Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"535","10970_3_6_7_UN","10970_3_6_7","UN",0,"California Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"536","10970_3_6_7_UE","10970_3_6_7","UE",0,"California Mesic Chaparral",562,7,22,10970,3,89,24
+"537","10970_3_6_7_UE","10970_3_6_7","UE",0,"California Mesic Chaparral",826,7,5,10970,7,76,6
+"538","10980_3_A","10980_3","A",26,"California Montane Woodland and Chaparral",563,1,6203,10980,3,15362,40
+"539","10980_3_B","10980_3","B",29,"California Montane Woodland and Chaparral",563,2,5828,10980,3,15362,37
+"540","10980_3_C","10980_3","C",45,"California Montane Woodland and Chaparral",563,3,476,10980,3,15362,3
+"541","10980_3_D","10980_3","D",NA,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"542","10980_3_E","10980_3","E",NA,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"543","10980_3_Agriculture","10980_3","Agriculture",0,"California Montane Woodland and Chaparral",563,180,38,10980,3,15362,0
+"544","10980_3_Developed","10980_3","Developed",0,"California Montane Woodland and Chaparral",563,120,512,10980,3,15362,3
+"545","10980_3_Water","10980_3","Water",0,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"546","10980_3_UN","10980_3","UN",0,"California Montane Woodland and Chaparral",563,6,1,10980,3,15362,0
+"547","10980_3_UE","10980_3","UE",0,"California Montane Woodland and Chaparral",563,7,40,10980,3,15362,0
+"548","10980_7_A","10980_7","A",26,"California Montane Woodland and Chaparral",827,1,854,10980,7,34078,2
+"549","10980_7_B","10980_7","B",22,"California Montane Woodland and Chaparral",827,2,8161,10980,7,34078,23
+"550","10980_7_C","10980_7","C",10,"California Montane Woodland and Chaparral",827,3,635,10980,7,34078,1
+"551","10980_7_D","10980_7","D",42,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"552","10980_7_E","10980_7","E",NA,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"553","10980_7_Agriculture","10980_7","Agriculture",0,"California Montane Woodland and Chaparral",827,180,903,10980,7,34078,2
+"554","10980_7_Developed","10980_7","Developed",0,"California Montane Woodland and Chaparral",827,120,3475,10980,7,34078,10
+"555","10980_7_Water","10980_7","Water",0,"California Montane Woodland and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"556","10980_7_UN","10980_7","UN",0,"California Montane Woodland and Chaparral",827,6,15206,10980,7,34078,44
+"557","10980_7_UE","10980_7","UE",0,"California Montane Woodland and Chaparral",827,7,4814,10980,7,34078,14
+"558","11050_3_6_7_A","11050_3_6_7","A",13,"Northern and Central California Dry-Mesic Chaparral",565,1,40,11050,3,145,27
+"559","11050_3_6_7_A","11050_3_6_7","A",13,"Northern and Central California Dry-Mesic Chaparral",829,1,846,11050,7,18156,4
+"560","11050_3_6_7_B","11050_3_6_7","B",87,"Northern and Central California Dry-Mesic Chaparral",565,2,80,11050,3,145,55
+"561","11050_3_6_7_B","11050_3_6_7","B",87,"Northern and Central California Dry-Mesic Chaparral",829,2,856,11050,7,18156,4
+"562","11050_3_6_7_C","11050_3_6_7","C",NA,"Northern and Central California Dry-Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"563","11050_3_6_7_D","11050_3_6_7","D",NA,"Northern and Central California Dry-Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"564","11050_3_6_7_E","11050_3_6_7","E",NA,"Northern and Central California Dry-Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"565","11050_3_6_7_Agriculture","11050_3_6_7","Agriculture",0,"Northern and Central California Dry-Mesic Chaparral",565,180,2,11050,3,145,1
+"566","11050_3_6_7_Agriculture","11050_3_6_7","Agriculture",0,"Northern and Central California Dry-Mesic Chaparral",829,180,11029,11050,7,18156,60
+"567","11050_3_6_7_Developed","11050_3_6_7","Developed",0,"Northern and Central California Dry-Mesic Chaparral",565,120,8,11050,3,145,5
+"568","11050_3_6_7_Developed","11050_3_6_7","Developed",0,"Northern and Central California Dry-Mesic Chaparral",829,120,4990,11050,7,18156,27
+"569","11050_3_6_7_Water","11050_3_6_7","Water",0,"Northern and Central California Dry-Mesic Chaparral",NA,NA,NA,NA,NA,NA,NA
+"570","11050_3_6_7_UN","11050_3_6_7","UN",0,"Northern and Central California Dry-Mesic Chaparral",565,6,5,11050,3,145,3
+"571","11050_3_6_7_UN","11050_3_6_7","UN",0,"Northern and Central California Dry-Mesic Chaparral",829,6,333,11050,7,18156,1
+"572","11050_3_6_7_UE","11050_3_6_7","UE",0,"Northern and Central California Dry-Mesic Chaparral",565,7,9,11050,3,145,6
+"573","11050_3_6_7_UE","11050_3_6_7","UE",0,"Northern and Central California Dry-Mesic Chaparral",829,7,102,11050,7,18156,0
+"574","11200_1_2_7_A","11200_1_2_7","A",9,"Willamette Valley Upland Prairie and Savanna",777,1,155,11200,2,50472,0
+"575","11200_1_2_7_A","11200_1_2_7","A",9,"Willamette Valley Upland Prairie and Savanna",831,1,18837,11200,7,331043,5
+"576","11200_1_2_7_B","11200_1_2_7","B",2,"Willamette Valley Upland Prairie and Savanna",777,2,529,11200,2,50472,1
+"577","11200_1_2_7_B","11200_1_2_7","B",2,"Willamette Valley Upland Prairie and Savanna",831,2,13424,11200,7,331043,4
+"578","11200_1_2_7_C","11200_1_2_7","C",20,"Willamette Valley Upland Prairie and Savanna",777,3,2,11200,2,50472,0
+"579","11200_1_2_7_C","11200_1_2_7","C",20,"Willamette Valley Upland Prairie and Savanna",831,3,304,11200,7,331043,0
+"580","11200_1_2_7_D","11200_1_2_7","D",68,"Willamette Valley Upland Prairie and Savanna",777,4,6,11200,2,50472,0
+"581","11200_1_2_7_D","11200_1_2_7","D",68,"Willamette Valley Upland Prairie and Savanna",831,4,1108,11200,7,331043,0
+"582","11200_1_2_7_E","11200_1_2_7","E",1,"Willamette Valley Upland Prairie and Savanna",777,5,35,11200,2,50472,0
+"583","11200_1_2_7_E","11200_1_2_7","E",1,"Willamette Valley Upland Prairie and Savanna",831,5,1560,11200,7,331043,0
+"584","11200_1_2_7_Agriculture","11200_1_2_7","Agriculture",0,"Willamette Valley Upland Prairie and Savanna",777,180,24383,11200,2,50472,48
+"585","11200_1_2_7_Agriculture","11200_1_2_7","Agriculture",0,"Willamette Valley Upland Prairie and Savanna",831,180,167781,11200,7,331043,50
+"586","11200_1_2_7_Developed","11200_1_2_7","Developed",0,"Willamette Valley Upland Prairie and Savanna",777,120,24939,11200,2,50472,49
+"587","11200_1_2_7_Developed","11200_1_2_7","Developed",0,"Willamette Valley Upland Prairie and Savanna",831,120,87652,11200,7,331043,26
+"588","11200_1_2_7_Water","11200_1_2_7","Water",0,"Willamette Valley Upland Prairie and Savanna",NA,NA,NA,NA,NA,NA,NA
+"589","11200_1_2_7_UN","11200_1_2_7","UN",0,"Willamette Valley Upland Prairie and Savanna",NA,NA,NA,NA,NA,NA,NA
+"590","11200_1_2_7_UE","11200_1_2_7","UE",0,"Willamette Valley Upland Prairie and Savanna",777,7,409,11200,2,50472,0
+"591","11200_1_2_7_UE","11200_1_2_7","UE",0,"Willamette Valley Upland Prairie and Savanna",831,7,40148,11200,7,331043,12
+"592","11230_1_7_8_9_A","11230_1_7_8_9","A",3,"Columbia Plateau Steppe and Grassland",832,1,1,11230,7,26,3
+"593","11230_1_7_8_9_B","11230_1_7_8_9","B",81,"Columbia Plateau Steppe and Grassland",832,2,2,11230,7,26,7
+"594","11230_1_7_8_9_C","11230_1_7_8_9","C",16,"Columbia Plateau Steppe and Grassland",832,3,2,11230,7,26,7
+"595","11230_1_7_8_9_D","11230_1_7_8_9","D",NA,"Columbia Plateau Steppe and Grassland",NA,NA,NA,NA,NA,NA,NA
+"596","11230_1_7_8_9_E","11230_1_7_8_9","E",NA,"Columbia Plateau Steppe and Grassland",NA,NA,NA,NA,NA,NA,NA
+"597","11230_1_7_8_9_Agriculture","11230_1_7_8_9","Agriculture",0,"Columbia Plateau Steppe and Grassland",NA,NA,NA,NA,NA,NA,NA
+"598","11230_1_7_8_9_Developed","11230_1_7_8_9","Developed",0,"Columbia Plateau Steppe and Grassland",832,120,1,11230,7,26,3
+"599","11230_1_7_8_9_Water","11230_1_7_8_9","Water",0,"Columbia Plateau Steppe and Grassland",NA,NA,NA,NA,NA,NA,NA
+"600","11230_1_7_8_9_UN","11230_1_7_8_9","UN",0,"Columbia Plateau Steppe and Grassland",832,6,19,11230,7,26,73
+"601","11230_1_7_8_9_UE","11230_1_7_8_9","UE",0,"Columbia Plateau Steppe and Grassland",832,7,1,11230,7,26,3
+"602","11240_1_7_8_9_A","11240_1_7_8_9","A",26,"Columbia Plateau Low Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"603","11240_1_7_8_9_B","11240_1_7_8_9","B",14,"Columbia Plateau Low Sagebrush Steppe",833,2,3,11240,7,120,2
+"604","11240_1_7_8_9_C","11240_1_7_8_9","C",60,"Columbia Plateau Low Sagebrush Steppe",833,3,25,11240,7,120,20
+"605","11240_1_7_8_9_D","11240_1_7_8_9","D",NA,"Columbia Plateau Low Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"606","11240_1_7_8_9_E","11240_1_7_8_9","E",NA,"Columbia Plateau Low Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"607","11240_1_7_8_9_Agriculture","11240_1_7_8_9","Agriculture",0,"Columbia Plateau Low Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"608","11240_1_7_8_9_Developed","11240_1_7_8_9","Developed",0,"Columbia Plateau Low Sagebrush Steppe",833,120,1,11240,7,120,0
+"609","11240_1_7_8_9_Water","11240_1_7_8_9","Water",0,"Columbia Plateau Low Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"610","11240_1_7_8_9_UN","11240_1_7_8_9","UN",0,"Columbia Plateau Low Sagebrush Steppe",833,6,80,11240,7,120,66
+"611","11240_1_7_8_9_UE","11240_1_7_8_9","UE",0,"Columbia Plateau Low Sagebrush Steppe",833,7,10,11240,7,120,8
+"612","11250_1_7_8_9_10_19_A","11250_1_7_8_9_10_19","A",18,"Inter-Mountain Basins Big Sagebrush Steppe",834,1,38,11250,7,359,10
+"613","11250_1_7_8_9_10_19_B","11250_1_7_8_9_10_19","B",26,"Inter-Mountain Basins Big Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"614","11250_1_7_8_9_10_19_C","11250_1_7_8_9_10_19","C",22,"Inter-Mountain Basins Big Sagebrush Steppe",834,3,1,11250,7,359,0
+"615","11250_1_7_8_9_10_19_D","11250_1_7_8_9_10_19","D",34,"Inter-Mountain Basins Big Sagebrush Steppe",834,4,21,11250,7,359,5
+"616","11250_1_7_8_9_10_19_E","11250_1_7_8_9_10_19","E",NA,"Inter-Mountain Basins Big Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"617","11250_1_7_8_9_10_19_Agriculture","11250_1_7_8_9_10_19","Agriculture",0,"Inter-Mountain Basins Big Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"618","11250_1_7_8_9_10_19_Developed","11250_1_7_8_9_10_19","Developed",0,"Inter-Mountain Basins Big Sagebrush Steppe",834,120,12,11250,7,359,3
+"619","11250_1_7_8_9_10_19_Water","11250_1_7_8_9_10_19","Water",0,"Inter-Mountain Basins Big Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"620","11250_1_7_8_9_10_19_UN","11250_1_7_8_9_10_19","UN",0,"Inter-Mountain Basins Big Sagebrush Steppe",834,6,257,11250,7,359,71
+"621","11250_1_7_8_9_10_19_UE","11250_1_7_8_9_10_19","UE",0,"Inter-Mountain Basins Big Sagebrush Steppe",834,7,29,11250,7,359,8
+"622","11260_1_7_8_9_10_19_A","11260_1_7_8_9_10_19","A",10,"Inter-Mountain Basins Montane Sagebrush Steppe",835,1,68,11260,7,366,18
+"623","11260_1_7_8_9_10_19_B","11260_1_7_8_9_10_19","B",23,"Inter-Mountain Basins Montane Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"624","11260_1_7_8_9_10_19_C","11260_1_7_8_9_10_19","C",20,"Inter-Mountain Basins Montane Sagebrush Steppe",835,3,10,11260,7,366,2
+"625","11260_1_7_8_9_10_19_D","11260_1_7_8_9_10_19","D",47,"Inter-Mountain Basins Montane Sagebrush Steppe",835,4,47,11260,7,366,12
+"626","11260_1_7_8_9_10_19_E","11260_1_7_8_9_10_19","E",NA,"Inter-Mountain Basins Montane Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"627","11260_1_7_8_9_10_19_Agriculture","11260_1_7_8_9_10_19","Agriculture",0,"Inter-Mountain Basins Montane Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"628","11260_1_7_8_9_10_19_Developed","11260_1_7_8_9_10_19","Developed",0,"Inter-Mountain Basins Montane Sagebrush Steppe",835,120,2,11260,7,366,0
+"629","11260_1_7_8_9_10_19_Water","11260_1_7_8_9_10_19","Water",0,"Inter-Mountain Basins Montane Sagebrush Steppe",NA,NA,NA,NA,NA,NA,NA
+"630","11260_1_7_8_9_10_19_UN","11260_1_7_8_9_10_19","UN",0,"Inter-Mountain Basins Montane Sagebrush Steppe",835,6,207,11260,7,366,56
+"631","11260_1_7_8_9_10_19_UE","11260_1_7_8_9_10_19","UE",0,"Inter-Mountain Basins Montane Sagebrush Steppe",835,7,25,11260,7,366,6
+"632","11280_2_3_4_A","11280_2_3_4","A",5,"Northern California Coastal Scrub",778,1,18,11280,2,379,4
+"633","11280_2_3_4_B","11280_2_3_4","B",15,"Northern California Coastal Scrub",778,2,17,11280,2,379,4
+"634","11280_2_3_4_C","11280_2_3_4","C",80,"Northern California Coastal Scrub",778,3,101,11280,2,379,26
+"635","11280_2_3_4_D","11280_2_3_4","D",NA,"Northern California Coastal Scrub",NA,NA,NA,NA,NA,NA,NA
+"636","11280_2_3_4_E","11280_2_3_4","E",NA,"Northern California Coastal Scrub",NA,NA,NA,NA,NA,NA,NA
+"637","11280_2_3_4_Agriculture","11280_2_3_4","Agriculture",0,"Northern California Coastal Scrub",778,180,7,11280,2,379,1
+"638","11280_2_3_4_Developed","11280_2_3_4","Developed",0,"Northern California Coastal Scrub",778,120,160,11280,2,379,42
+"639","11280_2_3_4_Water","11280_2_3_4","Water",0,"Northern California Coastal Scrub",NA,NA,NA,NA,NA,NA,NA
+"640","11280_2_3_4_UN","11280_2_3_4","UN",0,"Northern California Coastal Scrub",NA,NA,NA,NA,NA,NA,NA
+"641","11280_2_3_4_UE","11280_2_3_4","UE",0,"Northern California Coastal Scrub",778,7,63,11280,2,379,16
+"642","11310_2_3_4_A","11310_2_3_4","A",51,"California Northern Coastal Grassland",779,1,275,11310,2,3564,7
+"643","11310_2_3_4_B","11310_2_3_4","B",41,"California Northern Coastal Grassland",779,2,241,11310,2,3564,6
+"644","11310_2_3_4_C","11310_2_3_4","C",8,"California Northern Coastal Grassland",779,3,1051,11310,2,3564,29
+"645","11310_2_3_4_D","11310_2_3_4","D",NA,"California Northern Coastal Grassland",NA,NA,NA,NA,NA,NA,NA
+"646","11310_2_3_4_E","11310_2_3_4","E",NA,"California Northern Coastal Grassland",NA,NA,NA,NA,NA,NA,NA
+"647","11310_2_3_4_Agriculture","11310_2_3_4","Agriculture",0,"California Northern Coastal Grassland",779,180,72,11310,2,3564,2
+"648","11310_2_3_4_Developed","11310_2_3_4","Developed",0,"California Northern Coastal Grassland",779,120,571,11310,2,3564,16
+"649","11310_2_3_4_Water","11310_2_3_4","Water",0,"California Northern Coastal Grassland",NA,NA,NA,NA,NA,NA,NA
+"650","11310_2_3_4_UN","11310_2_3_4","UN",0,"California Northern Coastal Grassland",779,6,974,11310,2,3564,27
+"651","11310_2_3_4_UE","11310_2_3_4","UE",0,"California Northern Coastal Grassland",779,7,366,11310,2,3564,10
+"652","11380_3_5_A","11380_3_5","A",21,"North Pacific Montane Grassland",NA,NA,NA,NA,NA,NA,NA
+"653","11380_3_5_B","11380_3_5","B",79,"North Pacific Montane Grassland",572,2,89,11380,3,226,39
+"654","11380_3_5_C","11380_3_5","C",NA,"North Pacific Montane Grassland",NA,NA,NA,NA,NA,NA,NA
+"655","11380_3_5_D","11380_3_5","D",NA,"North Pacific Montane Grassland",NA,NA,NA,NA,NA,NA,NA
+"656","11380_3_5_E","11380_3_5","E",NA,"North Pacific Montane Grassland",NA,NA,NA,NA,NA,NA,NA
+"657","11380_3_5_Agriculture","11380_3_5","Agriculture",0,"North Pacific Montane Grassland",572,180,72,11380,3,226,31
+"658","11380_3_5_Developed","11380_3_5","Developed",0,"North Pacific Montane Grassland",572,120,21,11380,3,226,9
+"659","11380_3_5_Water","11380_3_5","Water",0,"North Pacific Montane Grassland",NA,NA,NA,NA,NA,NA,NA
+"660","11380_3_5_UN","11380_3_5","UN",0,"North Pacific Montane Grassland",572,6,25,11380,3,226,11
+"661","11380_3_5_UE","11380_3_5","UE",0,"North Pacific Montane Grassland",572,7,18,11380,3,226,7
+"662","11520_2_3_7_A","11520_2_3_7","A",16,"California Montane Riparian Systems",573,1,439,11520,3,6722,6
+"663","11520_2_3_7_A","11520_2_3_7","A",16,"California Montane Riparian Systems",780,1,4438,11520,2,137388,3
+"664","11520_2_3_7_A","11520_2_3_7","A",16,"California Montane Riparian Systems",838,1,12209,11520,7,93300,13
+"665","11520_2_3_7_B","11520_2_3_7","B",42,"California Montane Riparian Systems",573,2,344,11520,3,6722,5
+"666","11520_2_3_7_B","11520_2_3_7","B",42,"California Montane Riparian Systems",780,2,2299,11520,2,137388,1
+"667","11520_2_3_7_B","11520_2_3_7","B",42,"California Montane Riparian Systems",838,2,1747,11520,7,93300,1
+"668","11520_2_3_7_C","11520_2_3_7","C",42,"California Montane Riparian Systems",573,3,5510,11520,3,6722,81
+"669","11520_2_3_7_C","11520_2_3_7","C",42,"California Montane Riparian Systems",780,3,117943,11520,2,137388,85
+"670","11520_2_3_7_C","11520_2_3_7","C",42,"California Montane Riparian Systems",838,3,73932,11520,7,93300,79
+"671","11520_2_3_7_D","11520_2_3_7","D",NA,"California Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"672","11520_2_3_7_E","11520_2_3_7","E",NA,"California Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"673","11520_2_3_7_Agriculture","11520_2_3_7","Agriculture",0,"California Montane Riparian Systems",573,180,5,11520,3,6722,0
+"674","11520_2_3_7_Agriculture","11520_2_3_7","Agriculture",0,"California Montane Riparian Systems",780,180,1131,11520,2,137388,0
+"675","11520_2_3_7_Agriculture","11520_2_3_7","Agriculture",0,"California Montane Riparian Systems",838,180,1281,11520,7,93300,1
+"676","11520_2_3_7_Developed","11520_2_3_7","Developed",0,"California Montane Riparian Systems",573,120,405,11520,3,6722,6
+"677","11520_2_3_7_Developed","11520_2_3_7","Developed",0,"California Montane Riparian Systems",780,120,9489,11520,2,137388,6
+"678","11520_2_3_7_Developed","11520_2_3_7","Developed",0,"California Montane Riparian Systems",838,120,2847,11520,7,93300,3
+"679","11520_2_3_7_Water","11520_2_3_7","Water",0,"California Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"680","11520_2_3_7_UN","11520_2_3_7","UN",0,"California Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"681","11520_2_3_7_UE","11520_2_3_7","UE",0,"California Montane Riparian Systems",573,7,6,11520,3,6722,0
+"682","11520_2_3_7_UE","11520_2_3_7","UE",0,"California Montane Riparian Systems",780,7,2075,11520,2,137388,1
+"683","11520_2_3_7_UE","11520_2_3_7","UE",0,"California Montane Riparian Systems",838,7,1132,11520,7,93300,1
+"684","11530_7_8_9_A","11530_7_8_9","A",3,"Inter-Mountain Basins Greasewood Flat",839,1,9,11530,7,57,15
+"685","11530_7_8_9_B","11530_7_8_9","B",11,"Inter-Mountain Basins Greasewood Flat",839,2,14,11530,7,57,24
+"686","11530_7_8_9_C","11530_7_8_9","C",86,"Inter-Mountain Basins Greasewood Flat",839,3,22,11530,7,57,38
+"687","11530_7_8_9_D","11530_7_8_9","D",NA,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"688","11530_7_8_9_E","11530_7_8_9","E",NA,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"689","11530_7_8_9_Agriculture","11530_7_8_9","Agriculture",0,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"690","11530_7_8_9_Developed","11530_7_8_9","Developed",0,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"691","11530_7_8_9_Water","11530_7_8_9","Water",0,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"692","11530_7_8_9_UN","11530_7_8_9","UN",0,"Inter-Mountain Basins Greasewood Flat",NA,NA,NA,NA,NA,NA,NA
+"693","11530_7_8_9_UE","11530_7_8_9","UE",0,"Inter-Mountain Basins Greasewood Flat",839,7,12,11530,7,57,21
+"694","11540_1_7_8_9_A","11540_1_7_8_9","A",27,"Inter-Mountain Basins Montane Riparian Systems",840,1,11633,11540,7,109952,10
+"695","11540_1_7_8_9_B","11540_1_7_8_9","B",63,"Inter-Mountain Basins Montane Riparian Systems",840,2,1436,11540,7,109952,1
+"696","11540_1_7_8_9_C","11540_1_7_8_9","C",10,"Inter-Mountain Basins Montane Riparian Systems",840,3,32987,11540,7,109952,30
+"697","11540_1_7_8_9_D","11540_1_7_8_9","D",NA,"Inter-Mountain Basins Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"698","11540_1_7_8_9_E","11540_1_7_8_9","E",NA,"Inter-Mountain Basins Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"699","11540_1_7_8_9_Agriculture","11540_1_7_8_9","Agriculture",0,"Inter-Mountain Basins Montane Riparian Systems",840,180,44507,11540,7,109952,40
+"700","11540_1_7_8_9_Developed","11540_1_7_8_9","Developed",0,"Inter-Mountain Basins Montane Riparian Systems",840,120,16311,11540,7,109952,14
+"701","11540_1_7_8_9_Water","11540_1_7_8_9","Water",0,"Inter-Mountain Basins Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"702","11540_1_7_8_9_UN","11540_1_7_8_9","UN",0,"Inter-Mountain Basins Montane Riparian Systems",NA,NA,NA,NA,NA,NA,NA
+"703","11540_1_7_8_9_UE","11540_1_7_8_9","UE",0,"Inter-Mountain Basins Montane Riparian Systems",840,7,2800,11540,7,109952,2
+"704","11560_1_2_7_A","11560_1_2_7","A",16,"North Pacific Lowland Riparian Forest and Shrubland",781,1,2412,11560,2,41092,5
+"705","11560_1_2_7_A","11560_1_2_7","A",16,"North Pacific Lowland Riparian Forest and Shrubland",841,1,26,11560,7,425,6
+"706","11560_1_2_7_B","11560_1_2_7","B",18,"North Pacific Lowland Riparian Forest and Shrubland",781,2,162,11560,2,41092,0
+"707","11560_1_2_7_C","11560_1_2_7","C",19,"North Pacific Lowland Riparian Forest and Shrubland",781,3,21025,11560,2,41092,51
+"708","11560_1_2_7_C","11560_1_2_7","C",19,"North Pacific Lowland Riparian Forest and Shrubland",841,3,358,11560,7,425,84
+"709","11560_1_2_7_D","11560_1_2_7","D",47,"North Pacific Lowland Riparian Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"710","11560_1_2_7_E","11560_1_2_7","E",NA,"North Pacific Lowland Riparian Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"711","11560_1_2_7_Agriculture","11560_1_2_7","Agriculture",0,"North Pacific Lowland Riparian Forest and Shrubland",781,180,12614,11560,2,41092,30
+"712","11560_1_2_7_Agriculture","11560_1_2_7","Agriculture",0,"North Pacific Lowland Riparian Forest and Shrubland",841,180,4,11560,7,425,0
+"713","11560_1_2_7_Developed","11560_1_2_7","Developed",0,"North Pacific Lowland Riparian Forest and Shrubland",781,120,4242,11560,2,41092,10
+"714","11560_1_2_7_Developed","11560_1_2_7","Developed",0,"North Pacific Lowland Riparian Forest and Shrubland",841,120,23,11560,7,425,5
+"715","11560_1_2_7_Water","11560_1_2_7","Water",0,"North Pacific Lowland Riparian Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"716","11560_1_2_7_UN","11560_1_2_7","UN",0,"North Pacific Lowland Riparian Forest and Shrubland",NA,NA,NA,NA,NA,NA,NA
+"717","11560_1_2_7_UE","11560_1_2_7","UE",0,"North Pacific Lowland Riparian Forest and Shrubland",781,7,608,11560,2,41092,1
+"718","11560_1_2_7_UE","11560_1_2_7","UE",0,"North Pacific Lowland Riparian Forest and Shrubland",841,7,14,11560,7,425,3
+"719","11570_1_2_A","11570_1_2","A",13,"North Pacific Swamp Systems",782,1,1034,11570,2,21347,4
+"720","11570_1_2_B","11570_1_2","B",69,"North Pacific Swamp Systems",782,2,3966,11570,2,21347,18
+"721","11570_1_2_C","11570_1_2","C",18,"North Pacific Swamp Systems",782,3,12169,11570,2,21347,57
+"722","11570_1_2_D","11570_1_2","D",NA,"North Pacific Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"723","11570_1_2_E","11570_1_2","E",NA,"North Pacific Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"724","11570_1_2_Agriculture","11570_1_2","Agriculture",0,"North Pacific Swamp Systems",782,180,1600,11570,2,21347,7
+"725","11570_1_2_Developed","11570_1_2","Developed",0,"North Pacific Swamp Systems",782,120,2371,11570,2,21347,11
+"726","11570_1_2_Water","11570_1_2","Water",0,"North Pacific Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"727","11570_1_2_UN","11570_1_2","UN",0,"North Pacific Swamp Systems",NA,NA,NA,NA,NA,NA,NA
+"728","11570_1_2_UE","11570_1_2","UE",0,"North Pacific Swamp Systems",782,7,183,11570,2,21347,0
+"729","11581_1_2_7_A","11581_1_2_7","A",12,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,1,675,11581,2,12134,5
+"730","11581_1_2_7_A","11581_1_2_7","A",12,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,1,146,11581,7,2275,6
+"731","11581_1_2_7_B","11581_1_2_7","B",73,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,2,1047,11581,2,12134,8
+"732","11581_1_2_7_B","11581_1_2_7","B",73,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,2,362,11581,7,2275,15
+"733","11581_1_2_7_C","11581_1_2_7","C",15,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,3,8921,11581,2,12134,73
+"734","11581_1_2_7_C","11581_1_2_7","C",15,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,3,1677,11581,7,2275,73
+"735","11581_1_2_7_D","11581_1_2_7","D",NA,"North Pacific Montane Riparian Woodland and Shrubland - Wet",NA,NA,NA,NA,NA,NA,NA
+"736","11581_1_2_7_E","11581_1_2_7","E",NA,"North Pacific Montane Riparian Woodland and Shrubland - Wet",NA,NA,NA,NA,NA,NA,NA
+"737","11581_1_2_7_Agriculture","11581_1_2_7","Agriculture",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,180,1,11581,2,12134,0
+"738","11581_1_2_7_Agriculture","11581_1_2_7","Agriculture",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,180,29,11581,7,2275,1
+"739","11581_1_2_7_Developed","11581_1_2_7","Developed",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,120,1257,11581,2,12134,10
+"740","11581_1_2_7_Developed","11581_1_2_7","Developed",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,120,26,11581,7,2275,1
+"741","11581_1_2_7_Water","11581_1_2_7","Water",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",NA,NA,NA,NA,NA,NA,NA
+"742","11581_1_2_7_UN","11581_1_2_7","UN",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",NA,NA,NA,NA,NA,NA,NA
+"743","11581_1_2_7_UE","11581_1_2_7","UE",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",783,7,222,11581,2,12134,1
+"744","11581_1_2_7_UE","11581_1_2_7","UE",0,"North Pacific Montane Riparian Woodland and Shrubland - Wet",842,7,30,11581,7,2275,1
+"745","11582_1_2_7_A","11582_1_2_7","A",12,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,1,594,11582,2,20574,2
+"746","11582_1_2_7_A","11582_1_2_7","A",12,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,1,4839,11582,7,73359,6
+"747","11582_1_2_7_B","11582_1_2_7","B",74,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,2,3018,11582,2,20574,14
+"748","11582_1_2_7_B","11582_1_2_7","B",74,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,2,17396,11582,7,73359,23
+"749","11582_1_2_7_C","11582_1_2_7","C",14,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,3,10705,11582,2,20574,52
+"750","11582_1_2_7_C","11582_1_2_7","C",14,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,3,46827,11582,7,73359,63
+"751","11582_1_2_7_D","11582_1_2_7","D",NA,"North Pacific Montane Riparian Woodland and Shrubland - Dry",NA,NA,NA,NA,NA,NA,NA
+"752","11582_1_2_7_E","11582_1_2_7","E",NA,"North Pacific Montane Riparian Woodland and Shrubland - Dry",NA,NA,NA,NA,NA,NA,NA
+"753","11582_1_2_7_Agriculture","11582_1_2_7","Agriculture",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,180,3346,11582,2,20574,16
+"754","11582_1_2_7_Agriculture","11582_1_2_7","Agriculture",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,180,1172,11582,7,73359,1
+"755","11582_1_2_7_Developed","11582_1_2_7","Developed",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,120,2610,11582,2,20574,12
+"756","11582_1_2_7_Developed","11582_1_2_7","Developed",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,120,1920,11582,7,73359,2
+"757","11582_1_2_7_Water","11582_1_2_7","Water",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",NA,NA,NA,NA,NA,NA,NA
+"758","11582_1_2_7_UN","11582_1_2_7","UN",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",NA,NA,NA,NA,NA,NA,NA
+"759","11582_1_2_7_UE","11582_1_2_7","UE",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",784,7,291,11582,2,20574,1
+"760","11582_1_2_7_UE","11582_1_2_7","UE",0,"North Pacific Montane Riparian Woodland and Shrubland - Dry",843,7,972,11582,7,73359,1
+"761","11650_1_7_8_A","11650_1_7_8","A",25,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",844,1,210,11650,7,399,52
+"762","11650_1_7_8_B","11650_1_7_8","B",16,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",NA,NA,NA,NA,NA,NA,NA
+"763","11650_1_7_8_C","11650_1_7_8","C",59,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",844,3,171,11650,7,399,42
+"764","11650_1_7_8_D","11650_1_7_8","D",NA,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",NA,NA,NA,NA,NA,NA,NA
+"765","11650_1_7_8_E","11650_1_7_8","E",NA,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",NA,NA,NA,NA,NA,NA,NA
+"766","11650_1_7_8_Agriculture","11650_1_7_8","Agriculture",0,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",844,180,6,11650,7,399,1
+"767","11650_1_7_8_Developed","11650_1_7_8","Developed",0,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",844,120,6,11650,7,399,1
+"768","11650_1_7_8_Water","11650_1_7_8","Water",0,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",NA,NA,NA,NA,NA,NA,NA
+"769","11650_1_7_8_UN","11650_1_7_8","UN",0,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",NA,NA,NA,NA,NA,NA,NA
+"770","11650_1_7_8_UE","11650_1_7_8","UE",0,"Northern Rocky Mountain Foothill Conifer Wooded Steppe",844,7,3,11650,7,399,0
+"771","11670_1_7_9_A","11670_1_7_9","A",29,"Rocky Mountain Poor-Site Lodgepole Pine Forest",845,1,8998,11670,7,36219,24
+"772","11670_1_7_9_B","11670_1_7_9","B",34,"Rocky Mountain Poor-Site Lodgepole Pine Forest",845,2,10980,11670,7,36219,30
+"773","11670_1_7_9_C","11670_1_7_9","C",37,"Rocky Mountain Poor-Site Lodgepole Pine Forest",845,3,14888,11670,7,36219,41
+"774","11670_1_7_9_D","11670_1_7_9","D",NA,"Rocky Mountain Poor-Site Lodgepole Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"775","11670_1_7_9_E","11670_1_7_9","E",NA,"Rocky Mountain Poor-Site Lodgepole Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"776","11670_1_7_9_Agriculture","11670_1_7_9","Agriculture",0,"Rocky Mountain Poor-Site Lodgepole Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"777","11670_1_7_9_Developed","11670_1_7_9","Developed",0,"Rocky Mountain Poor-Site Lodgepole Pine Forest",845,120,193,11670,7,36219,0
+"778","11670_1_7_9_Water","11670_1_7_9","Water",0,"Rocky Mountain Poor-Site Lodgepole Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"779","11670_1_7_9_UN","11670_1_7_9","UN",0,"Rocky Mountain Poor-Site Lodgepole Pine Forest",NA,NA,NA,NA,NA,NA,NA
+"780","11670_1_7_9_UE","11670_1_7_9","UE",0,"Rocky Mountain Poor-Site Lodgepole Pine Forest",845,7,436,11670,7,36219,1
+"781","11700_2_3_7_A","11700_2_3_7","A",14,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",575,1,8,11700,3,8,100
+"782","11700_2_3_7_A","11700_2_3_7","A",14,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,1,23807,11700,2,76081,31
+"783","11700_2_3_7_A","11700_2_3_7","A",14,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",846,1,82,11700,7,718,11
+"784","11700_2_3_7_B","11700_2_3_7","B",31,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,2,576,11700,2,76081,0
+"785","11700_2_3_7_B","11700_2_3_7","B",31,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",846,2,3,11700,7,718,0
+"786","11700_2_3_7_C","11700_2_3_7","C",55,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,3,5528,11700,2,76081,7
+"787","11700_2_3_7_C","11700_2_3_7","C",55,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",846,3,81,11700,7,718,11
+"788","11700_2_3_7_D","11700_2_3_7","D",NA,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"789","11700_2_3_7_E","11700_2_3_7","E",NA,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"790","11700_2_3_7_Agriculture","11700_2_3_7","Agriculture",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,180,4114,11700,2,76081,5
+"791","11700_2_3_7_Developed","11700_2_3_7","Developed",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,120,14372,11700,2,76081,18
+"792","11700_2_3_7_Water","11700_2_3_7","Water",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",NA,NA,NA,NA,NA,NA,NA
+"793","11700_2_3_7_UN","11700_2_3_7","UN",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,6,23929,11700,2,76081,31
+"794","11700_2_3_7_UN","11700_2_3_7","UN",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",846,6,547,11700,7,718,76
+"795","11700_2_3_7_UE","11700_2_3_7","UE",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",785,7,3507,11700,2,76081,4
+"796","11700_2_3_7_UE","11700_2_3_7","UE",0,"Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral",846,7,2,11700,7,718,0
+"797","11710_7_A","11710_7","A",2,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"798","11710_7_B","11710_7","B",98,"North Pacific Alpine and Subalpine Dry Grassland",847,2,51,11710,7,54,94
+"799","11710_7_C","11710_7","C",NA,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"800","11710_7_D","11710_7","D",NA,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"801","11710_7_E","11710_7","E",NA,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"802","11710_7_Agriculture","11710_7","Agriculture",0,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"803","11710_7_Developed","11710_7","Developed",0,"North Pacific Alpine and Subalpine Dry Grassland",847,120,1,11710,7,54,1
+"804","11710_7_Water","11710_7","Water",0,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"805","11710_7_UN","11710_7","UN",0,"North Pacific Alpine and Subalpine Dry Grassland",NA,NA,NA,NA,NA,NA,NA
+"806","11710_7_UE","11710_7","UE",0,"North Pacific Alpine and Subalpine Dry Grassland",847,7,2,11710,7,54,3
+"807","11720_7_A","11720_7","A",14,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,1,139,11720,7,3876,3
+"808","11720_7_B","11720_7","B",24,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,2,1817,11720,7,3876,46
+"809","11720_7_C","11720_7","C",28,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,3,364,11720,7,3876,9
+"810","11720_7_D","11720_7","D",23,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,4,30,11720,7,3876,0
+"811","11720_7_E","11720_7","E",11,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,5,1468,11720,7,3876,37
+"812","11720_7_Agriculture","11720_7","Agriculture",0,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",NA,NA,NA,NA,NA,NA,NA
+"813","11720_7_Developed","11720_7","Developed",0,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,120,19,11720,7,3876,0
+"814","11720_7_Water","11720_7","Water",0,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",NA,NA,NA,NA,NA,NA,NA
+"815","11720_7_UN","11720_7","UN",0,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",NA,NA,NA,NA,NA,NA,NA
+"816","11720_7_UE","11720_7","UE",0,"Sierran-Intermontane Desert Western White Pine-White Fir Woodland",848,7,16,11720,7,3876,0
+"817","11730_1_7_A","11730_1_7","A",13,"North Pacific Wooded Volcanic Flowage",849,1,283,11730,7,693,40
+"818","11730_1_7_B","11730_1_7","B",87,"North Pacific Wooded Volcanic Flowage",849,2,327,11730,7,693,47
+"819","11730_1_7_C","11730_1_7","C",NA,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"820","11730_1_7_D","11730_1_7","D",NA,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"821","11730_1_7_E","11730_1_7","E",NA,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"822","11730_1_7_Agriculture","11730_1_7","Agriculture",0,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"823","11730_1_7_Developed","11730_1_7","Developed",0,"North Pacific Wooded Volcanic Flowage",849,120,18,11730,7,693,2
+"824","11730_1_7_Water","11730_1_7","Water",0,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"825","11730_1_7_UN","11730_1_7","UN",0,"North Pacific Wooded Volcanic Flowage",NA,NA,NA,NA,NA,NA,NA
+"826","11730_1_7_UE","11730_1_7","UE",0,"North Pacific Wooded Volcanic Flowage",849,7,56,11730,7,693,8
+"827","11740_1_7_A","11740_1_7","A",13,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,1,2753,11740,7,33050,8
+"828","11740_1_7_B","11740_1_7","B",21,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,2,3469,11740,7,33050,10
+"829","11740_1_7_C","11740_1_7","C",3,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,3,10168,11740,7,33050,30
+"830","11740_1_7_D","11740_1_7","D",8,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,4,4111,11740,7,33050,12
+"831","11740_1_7_E","11740_1_7","E",55,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,5,12466,11740,7,33050,37
+"832","11740_1_7_Agriculture","11740_1_7","Agriculture",0,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",NA,NA,NA,NA,NA,NA,NA
+"833","11740_1_7_Developed","11740_1_7","Developed",0,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,120,34,11740,7,33050,0
+"834","11740_1_7_Water","11740_1_7","Water",0,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",NA,NA,NA,NA,NA,NA,NA
+"835","11740_1_7_UN","11740_1_7","UN",0,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",NA,NA,NA,NA,NA,NA,NA
+"836","11740_1_7_UE","11740_1_7","UE",0,"North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest",850,7,24,11740,7,33050,0
+"837","11780_1_2_7_A","11780_1_2_7","A",5,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",786,1,191,11780,2,7504,2
+"838","11780_1_2_7_B","11780_1_2_7","B",48,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",786,2,5730,11780,2,7504,76
+"839","11780_1_2_7_C","11780_1_2_7","C",47,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"840","11780_1_2_7_D","11780_1_2_7","D",NA,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"841","11780_1_2_7_E","11780_1_2_7","E",NA,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"842","11780_1_2_7_Agriculture","11780_1_2_7","Agriculture",0,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",786,180,5,11780,2,7504,0
+"843","11780_1_2_7_Developed","11780_1_2_7","Developed",0,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",786,120,643,11780,2,7504,8
+"844","11780_1_2_7_Water","11780_1_2_7","Water",0,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"845","11780_1_2_7_UN","11780_1_2_7","UN",0,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",NA,NA,NA,NA,NA,NA,NA
+"846","11780_1_2_7_UE","11780_1_2_7","UE",0,"North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest",786,7,488,11780,2,7504,6

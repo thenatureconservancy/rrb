@@ -1,0 +1,105 @@
+"","VALUE","Freq","BPS_CODE","ZONE","BPS_MODEL","BPS_NAME","GROUPVEG","FRI_REPLAC","FRI_MIXED","FRI_SURFAC","FRI_ALLFIR","PRC_REPLAC","PRC_MIXED","PRC_SURFAC","FRG_NEW","R","G","B","RED","GREEN","BLUE","ACRES","REL_PERCENT"
+"1",2720,3951300,10431,2,"10431_2_3_6_7","Mediterranean California Mixed Evergreen Forest-Interior","Conifer",165,46,23,14,9,30,61,"I-B",164,196,143,0.643137255,0.768627451,0.560784314,878748,20.1
+"2",764,2323243,10270,2,"10270_2_3_7","Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland","Conifer",337,32,12,8,3,26,71,"I-B",158,187,215,0.619607843,0.733333333,0.843137255,516677,11.8
+"3",797,1895460,10270,7,"10270_2_3_7","Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland","Conifer",337,32,12,8,3,26,71,"I-B",158,187,215,0.619607843,0.733333333,0.843137255,421540,9.6
+"4",798,1687163,10280,7,"10280_4_6_7_12","Mediterranean California Mesic Mixed Conifer Forest and Woodland","Conifer",148,46,33,17,12,37,51,"I-C",84,98,168,0.329411765,0.384313725,0.658823529,375216,8.6
+"5",2719,1276404,10432,2,"10432_2_3","Mediterranean California Mixed Evergreen Forest-Coastal","Conifer",221,60,252,40,18,66,16,"III-A",164,196,143,0.643137255,0.768627451,0.560784314,283865,6.5
+"6",767,1094922,10300,2,"10300_2_3_4_5_6_7","Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland","Conifer",176,38,15,10,6,27,67,"I-B",180,80,145,0.705882353,0.31372549,0.568627451,243505,5.6
+"7",762,906589,10210,2,"10210_2_3_6_7","Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland","Conifer",229,70,11,9,5,13,82,"I-B",245,181,149,0.960784314,0.709803922,0.584313725,201621,4.6
+"8",765,827415,10280,2,"10280_2_3","Mediterranean California Mesic Mixed Conifer Forest and Woodland","Conifer",237,47,25,15,6,33,61,"I-B",84,98,168,0.329411765,0.384313725,0.658823529,184013,4.2
+"9",800,563338,10300,7,"10300_2_3_4_5_6_7","Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland","Conifer",176,38,15,10,6,27,67,"I-B",180,80,145,0.705882353,0.31372549,0.568627451,125283,2.9
+"10",802,546124,10320,7,"10320_2_3_7","Mediterranean California Red Fir Forest","Conifer",189,58,58,25,14,43,43,"I-C",255,59,127,1,0.231372549,0.498039216,121455,2.8
+"11",806,372552,10370,7,"10370_1_2_7","North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest","Conifer",336,105,NA,80,24,76,NA,"III-A",222,252,222,0.870588235,0.988235294,0.870588235,82854,1.9
+"12",820,347819,10600,7,"10600_1_2_7","East Cascades Oak-Ponderosa Pine Forest and Woodland","Conifer",383,644,31,28,7,4,89,"I-C",205,102,102,0.803921569,0.4,0.4,77353,1.8
+"13",773,325677,10390,2,"10390_1_2_3_7","North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest","Conifer",404,NA,NA,404,100,NA,NA,"V-A",170,227,170,0.666666667,0.890196078,0.666666667,72429,1.7
+"14",831,331043,11200,7,"11200_1_2_7","Willamette Valley Upland Prairie and Savanna","Hardwood",288,50,13,10,4,19,77,"I-B",215,215,158,0.843137255,0.843137255,0.619607843,73622,1.7
+"15",763,292429,10220,2,"10220_2_3_6_7","Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland","Conifer",231,70,11,9,5,13,82,"I-B",237,139,90,0.929411765,0.545098039,0.352941176,65035,1.5
+"16",810,271862,10412,7,"10412_1_7","North Pacific Mountain Hemlock Forest-Xeric","Conifer",294,615,1001,166,56,27,17,"III-B",114,208,242,0.447058824,0.815686275,0.949019608,60461,1.4
+"17",772,259814,10370,2,"10370_1_2_7","North Pacific Maritime Dry-Mesic Douglas-fir-Western Hemlock Forest","Conifer",336,105,NA,80,24,76,NA,"III-A",222,252,222,0.870588235,0.988235294,0.870588235,57781,1.3
+"18",770,200243,10350,2,"10350_1_2_7","North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland","Conifer",367,70,90,35,10,50,40,"I-C",137,68,68,0.537254902,0.266666667,0.266666667,44533,1
+"19",552,180068,10280,3,"10280_2_3","Mediterranean California Mesic Mixed Conifer Forest and Woodland","Conifer",237,47,25,15,6,33,61,"I-B",84,98,168,0.329411765,0.384313725,0.658823529,40046,0.9
+"20",769,139498,10320,2,"10320_2_3_7","Mediterranean California Red Fir Forest","Conifer",189,58,58,25,14,43,43,"I-C",255,59,127,1,0.231372549,0.498039216,31024,0.7
+"21",780,137388,11520,2,"11520_2_3_7","California Montane Riparian Systems","Riparian",64,79,NA,35,55,45,NA,"I-C",65,150,167,0.254901961,0.588235294,0.654901961,30554,0.7
+"22",11,108334,11,NA,NA,"Open Water","Open Water",NA,NA,NA,NA,NA,NA,NA,NA,0,0,255,0,0,1,24093,0.6
+"23",775,125042,10600,2,"10600_1_2_7","East Cascades Oak-Ponderosa Pine Forest and Woodland","Conifer",383,644,31,28,7,4,89,"I-C",205,102,102,0.803921569,0.4,0.4,27809,0.6
+"24",840,109952,11540,7,"11540_1_7_8_9","Inter-Mountain Basins Montane Riparian Systems","Riparian",99,NA,NA,99,100,NA,NA,"IV-A",154,156,117,0.603921569,0.611764706,0.458823529,24453,0.6
+"25",768,92441,10310,2,"10310_2_3_4_5_6_12","California Montane Jeffrey Pine(-Ponderosa Pine) Woodland","Conifer",165,84,11,9,6,11,83,"I-B",167,70,0,0.654901961,0.274509804,0,20558,0.5
+"26",838,93300,11520,7,"11520_2_3_7","California Montane Riparian Systems","Riparian",64,79,NA,35,55,45,NA,"I-C",65,150,167,0.254901961,0.588235294,0.654901961,20749,0.5
+"27",2722,95502,10431,3,"10431_2_3_6_7","Mediterranean California Mixed Evergreen Forest-Interior","Conifer",165,46,23,14,9,30,61,"I-B",164,196,143,0.643137255,0.768627451,0.560784314,21239,0.5
+"28",551,76343,10270,3,"10270_2_3_7","Mediterranean California Dry-Mesic Mixed Conifer Forest and Woodland","Conifer",337,32,12,8,3,26,71,"I-B",158,187,215,0.619607843,0.733333333,0.843137255,16978,0.4
+"29",766,68808,10290,2,"10290_2_3_4_5_6_7_12","Mediterranean California Mixed Oak Woodland","Hardwood",285,33,11,8,3,25,72,"I-B",220,100,100,0.862745098,0.392156863,0.392156863,15303,0.4
+"30",771,75183,10360,2,"10360_1_2","North Pacific Hypermaritime Sitka Spruce Forest","Conifer",657,NA,NA,657,100,NA,NA,"V-B",213,127,227,0.835294118,0.498039216,0.890196078,16720,0.4
+"31",785,76081,11700,2,"11700_2_3_7","Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral","Conifer",201,NA,14,13,7,NA,93,"I-B",210,235,0,0.823529412,0.921568627,0,16920,0.4
+"32",799,74016,10290,7,"10290_2_3_4_5_6_7_12","Mediterranean California Mixed Oak Woodland","Hardwood",285,33,11,8,3,25,72,"I-B",220,100,100,0.862745098,0.392156863,0.392156863,16461,0.4
+"33",843,73359,11582,7,"11582_1_2_7","North Pacific Montane Riparian Woodland and Shrubland-Dry","Riparian",465,233,NA,155,33,67,NA,"III-B",172,194,193,0.674509804,0.760784314,0.756862745,16315,0.4
+"34",550,56573,10220,3,"10220_2_3_6_7","Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland","Conifer",231,70,11,9,5,13,82,"I-B",237,139,90,0.929411765,0.545098039,0.352941176,12582,0.3
+"35",556,61282,10320,3,"10320_2_3_7","Mediterranean California Red Fir Forest","Conifer",189,58,58,25,14,43,43,"I-C",255,59,127,1,0.231372549,0.498039216,13629,0.3
+"36",777,50472,11200,2,"11200_1_2_7","Willamette Valley Upland Prairie and Savanna","Hardwood",288,50,13,10,4,19,77,"I-B",215,215,158,0.843137255,0.843137255,0.619607843,11225,0.3
+"37",31,48058,31,NA,NA,"Barren-Rock/Sand/Clay","Barren-Rock/Sand/Clay",NA,NA,NA,NA,NA,NA,NA,NA,191,191,191,0.749019608,0.749019608,0.749019608,10688,0.2
+"38",761,40298,10150,2,"10150_2_3_4","California Coastal Redwood Forest","Conifer",408,NA,32,30,7,NA,93,"I-C",168,0,0,0.658823529,0,0,8962,0.2
+"39",781,41092,11560,2,"11560_1_2_7","North Pacific Lowland Riparian Forest and Shrubland","Riparian",749,NA,NA,749,100,NA,NA,"V-B",177,179,125,0.694117647,0.701960784,0.490196078,9139,0.2
+"40",827,34078,10980,7,"10980_7","California Montane Woodland and Chaparral","Shrubland",49,197,234,34,68,17,15,"II-C",210,170,50,0.823529412,0.666666667,0.196078431,7579,0.2
+"41",845,36219,11670,7,"11670_1_7_9","Rocky Mountain Poor-Site Lodgepole Pine Forest","Conifer",111,113,NA,56,50,50,NA,"III-A",85,255,0,0.333333333,1,0,8055,0.2
+"42",850,33050,11740,7,"11740_1_7","North Pacific Dry-Mesic Silver Fir-Western Hemlock-Douglas-fir Forest","Conifer",334,308,NA,160,48,52,NA,"III-B",217,189,252,0.850980392,0.741176471,0.988235294,7350,0.2
+"43",549,16701,10210,3,"10210_2_3_6_7","Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland","Conifer",229,70,11,9,5,13,82,"I-B",245,181,149,0.960784314,0.709803922,0.584313725,3714,0.1
+"44",563,15362,10980,3,"10980_3","California Montane Woodland and Chaparral","Shrubland",94,54,NA,34,37,63,NA,"I-C",210,170,50,0.823529412,0.666666667,0.196078431,3416,0.1
+"45",782,21347,11570,2,"11570_1_2","North Pacific Swamp Systems","Riparian",NA,NA,NA,NA,NA,NA,NA,NA,70,85,137,0.274509804,0.333333333,0.537254902,4747,0.1
+"46",783,12134,11581,2,"11581_1_2_7","North Pacific Montane Riparian Woodland and Shrubland-Wet","Riparian",1888,1598,NA,865,46,54,NA,"V-B",188,207,212,0.737254902,0.811764706,0.831372549,2699,0.1
+"47",784,20574,11582,2,"11582_1_2_7","North Pacific Montane Riparian Woodland and Shrubland-Dry","Riparian",465,233,NA,155,33,67,NA,"III-B",172,194,193,0.674509804,0.760784314,0.756862745,4576,0.1
+"48",792,19101,10170,7,"10170_6_7_8_9_12_18","Columbia Plateau Western Juniper Woodland and Savanna","Conifer",445,272,NA,169,38,62,NA,"III-B",14,245,98,0.054901961,0.960784314,0.384313725,4248,0.1
+"49",793,13694,10180,7,"10180_1_7","East Cascades Mesic Montane Mixed-Conifer Forest and Woodland","Conifer",253,129,276,65,26,50,24,"III-A",95,158,180,0.37254902,0.619607843,0.705882353,3045,0.1
+"50",795,23379,10210,7,"10210_2_3_6_7","Klamath-Siskiyou Lower Montane Serpentine Mixed Conifer Woodland","Conifer",229,70,11,9,5,13,82,"I-B",245,181,149,0.960784314,0.709803922,0.584313725,5199,0.1
+"51",829,18156,11050,7,"11050_3_6_7","Northern and Central California Dry-Mesic Chaparral","Shrubland",74,NA,NA,74,100,NA,NA,"IV-A",245,246,175,0.960784314,0.964705882,0.68627451,4038,0.1
+"52",408,289,10020,2,"10020","Mediterranean California Sparsely Vegetated Systems","Sparse",NA,NA,NA,NA,NA,NA,NA,NA,255,245,215,1,0.960784314,0.843137255,64,0
+"53",553,3,10290,3,"10290_2_3_4_5_6_7_12","Mediterranean California Mixed Oak Woodland","Hardwood",285,33,11,8,3,25,72,"I-B",220,100,100,0.862745098,0.392156863,0.392156863,1,0
+"54",554,25,10300,3,"10300_2_3_4_5_6_7","Mediterranean California Lower Montane Black Oak-Conifer Forest and Woodland","Conifer",176,38,15,10,6,27,67,"I-B",180,80,145,0.705882353,0.31372549,0.568627451,6,0
+"55",555,63,10310,3,"10310_2_3_4_5_6_12","California Montane Jeffrey Pine(-Ponderosa Pine) Woodland","Conifer",165,84,11,9,6,11,83,"I-B",167,70,0,0.654901961,0.274509804,0,14,0
+"56",558,433,10390,3,"10390_1_2_3_7","North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest","Conifer",404,NA,NA,404,100,NA,NA,"V-A",170,227,170,0.666666667,0.890196078,0.666666667,96,0
+"57",560,4900,10440,3,"10440_3_6_7","Northern California Mesic Subalpine Woodland","Conifer",504,929,NA,327,65,35,NA,"V-A",255,133,0,1,0.521568627,0,1090,0
+"58",562,89,10970,3,"10970_3_6_7","California Mesic Chaparral","Shrubland",54,NA,NA,54,100,NA,NA,"IV-A",200,190,85,0.784313725,0.745098039,0.333333333,20,0
+"59",565,145,11050,3,"11050_3_6_7","Northern and Central California Dry-Mesic Chaparral","Shrubland",74,NA,NA,74,100,NA,NA,"IV-A",245,246,175,0.960784314,0.964705882,0.68627451,32,0
+"60",572,226,11380,3,"11380_3_5","North Pacific Montane Grassland","Grassland",64,NA,NA,64,100,NA,NA,"IV-A",199,230,158,0.780392157,0.901960784,0.619607843,50,0
+"61",573,6722,11520,3,"11520_2_3_7","California Montane Riparian Systems","Riparian",64,79,NA,35,55,45,NA,"I-C",65,150,167,0.254901961,0.588235294,0.654901961,1495,0
+"62",575,8,11700,3,"11700_2_3_7","Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral","Conifer",201,NA,14,13,7,NA,93,"I-B",210,235,0,0.823529412,0.921568627,0,2,0
+"63",760,3216,10080,2,"10080_1_2_3_7","North Pacific Oak Woodland","Hardwood",293,37,14,10,3,26,71,"I-B",255,120,120,1,0.470588235,0.470588235,715,0
+"64",776,9,10630,2,"10630_2_7","North Pacific Broadleaf Landslide Forest and Shrubland","Hardwood",100,498,NA,83,83,17,NA,"IV-A",255,247,163,1,0.968627451,0.639215686,2,0
+"65",778,379,11280,2,"11280_2_3_4","Northern California Coastal Scrub","Shrubland",110,NA,NA,110,100,NA,NA,"IV-B",148,194,168,0.580392157,0.760784314,0.658823529,84,0
+"66",779,3564,11310,2,"11310_2_3_4","California Northern Coastal Grassland","Grassland",2,NA,NA,2,100,NA,NA,"II-A",237,240,216,0.929411765,0.941176471,0.847058824,793,0
+"67",786,7504,11780,2,"11780_1_2_7","North Pacific Hypermaritime Western Red-cedar-Western Hemlock Forest","Conifer",NA,NA,NA,NA,NA,NA,NA,NA,215,176,158,0.843137255,0.690196078,0.619607843,1669,0
+"68",787,257,10010,7,"10010","Inter-Mountain Basins Sparsely Vegetated Systems","Sparse",NA,NA,NA,NA,NA,NA,NA,NA,255,255,190,1,1,0.745098039,57,0
+"69",788,237,10020,7,"10020","Mediterranean California Sparsely Vegetated Systems","Sparse",NA,NA,NA,NA,NA,NA,NA,NA,255,245,215,1,0.960784314,0.843137255,53,0
+"70",789,12,10030,7,"10030","North Pacific Sparsely Vegetated Systems","Sparse",NA,NA,NA,NA,NA,NA,NA,NA,255,240,190,1,0.941176471,0.745098039,3,0
+"71",790,184,10080,7,"10080_1_2_3_7","North Pacific Oak Woodland","Hardwood",293,37,14,10,3,26,71,"I-B",255,120,120,1,0.470588235,0.470588235,41,0
+"72",791,181,10110,7,"10110_7","Rocky Mountain Aspen Forest and Woodland","Hardwood",125,100,NA,56,45,55,NA,"III-A",255,255,115,1,1,0.450980392,40,0
+"73",796,6209,10220,7,"10220_2_3_6_7","Klamath-Siskiyou Upper Montane Serpentine Mixed Conifer Woodland","Conifer",231,70,11,9,5,13,82,"I-B",237,139,90,0.929411765,0.545098039,0.352941176,1381,0
+"74",801,9391,10310,7,"10310_7","California Montane Jeffrey Pine(-Ponderosa Pine) Woodland","Conifer",200,118,26,19,10,16,74,"I-C",167,70,0,0.654901961,0.274509804,0,2089,0
+"75",803,5,10330,7,"10330_3_6_7","Mediterranean California Subalpine Woodland","Conifer",475,566,NA,258,54,46,NA,"V-A",226,194,162,0.88627451,0.760784314,0.635294118,1,0
+"76",805,4353,10350,7,"10350_1_2_7","North Pacific Dry Douglas-fir(-Madrone) Forest and Woodland","Conifer",367,70,90,35,10,50,40,"I-C",137,68,68,0.537254902,0.266666667,0.266666667,968,0
+"77",807,289,10380,7,"10380_1_7","North Pacific Maritime Mesic Subalpine Parkland","Conifer",5183,NA,NA,5183,100,NA,NA,"V-B",255,145,0,1,0.568627451,0,64,0
+"78",808,5633,10390,7,"10390_1_2_3_7","North Pacific Maritime Mesic-Wet Douglas-fir-Western Hemlock Forest","Conifer",404,NA,NA,404,100,NA,NA,"V-A",170,227,170,0.666666667,0.890196078,0.666666667,1253,0
+"79",811,267,10420,7,"10420_1_7","North Pacific Mesic Western Hemlock-Silver Fir Forest","Conifer",3606,1742,NA,1172,33,67,NA,"V-B",249,189,252,0.976470588,0.741176471,0.988235294,59,0
+"80",812,3581,10431,7,"10431_2_3_6_7","Mediterranean California Mixed Evergreen Forest-Interior","Conifer",165,46,23,14,9,30,61,"I-B",164,196,143,0.643137255,0.768627451,0.560784314,796,0
+"81",813,1554,10440,7,"10440_3_6_7","Northern California Mesic Subalpine Woodland","Conifer",504,929,NA,327,65,35,NA,"V-A",255,133,0,1,0.521568627,0,346,0
+"82",814,1019,10450,7,"10450_1_7_8_9","Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest","Conifer",184,107,32,22,12,21,67,"I-C",200,209,255,0.784313725,0.819607843,1,227,0
+"83",815,255,10460,7,"10460_1_7_9","Northern Rocky Mountain Subalpine Woodland and Parkland","Conifer",345,79,NA,64,19,81,NA,"III-A",255,170,0,1,0.666666667,0,57,0
+"84",816,4639,10531,7,"10531_1_7_8_9","Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Mesic","Conifer",273,78,19,14,6,18,76,"I-B",168,85,0,0.658823529,0.333333333,0,1032,0
+"85",817,37,10532,7,"10532_7_9","Northern Rocky Mountain Ponderosa Pine Woodland and Savanna-Xeric","Conifer",258,100,136,47,18,47,35,"III-A",168,120,0,0.658823529,0.470588235,0,8,0
+"86",818,1131,10560,7,"10560_1_7_8_9","Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland","Conifer",120,415,NA,93,78,22,NA,"III-A",56,168,0,0.219607843,0.658823529,0,252,0
+"87",819,399,10580,7,"10580_7","Sierra Nevada Subalpine Lodgepole Pine Forest and Woodland","Conifer",91,NA,650,80,88,NA,12,"IV-A",127,234,0,0.498039216,0.917647059,0,89,0
+"88",821,6415,10620,7,"10620_7_9","Inter-Mountain Basins Curl-leaf Mountain Mahogany Woodland and Shrubland","Shrubland",243,213,244,77,32,36,32,"III-A",191,19,230,0.749019608,0.074509804,0.901960784,1427,0
+"89",822,49,10630,7,"10630_2_7","North Pacific Broadleaf Landslide Forest and Shrubland","Hardwood",100,498,NA,83,83,17,NA,"IV-A",255,247,163,1,0.968627451,0.639215686,11,0
+"90",823,1187,10680,7,"10680_1_7","North Pacific Dry and Mesic Alpine Dwarf-Shrubland or Fell-field or Meadow","Shrubland",NA,NA,NA,NA,NA,NA,NA,NA,20,125,125,0.078431373,0.490196078,0.490196078,264,0
+"91",824,2632,10800,7,"10800_1_7_8_9","Inter-Mountain Basins Big Sagebrush Shrubland","Shrubland",101,NA,NA,101,100,NA,NA,"IV-B",255,190,232,1,0.745098039,0.909803922,585,0
+"92",826,76,10970,7,"10970_3_6_7","California Mesic Chaparral","Shrubland",54,NA,NA,54,100,NA,NA,"IV-A",200,190,85,0.784313725,0.745098039,0.333333333,17,0
+"93",832,26,11230,7,"11230_1_7_8_9","Columbia Plateau Steppe and Grassland","Grassland",39,NA,NA,39,100,NA,NA,"IV-A",235,218,234,0.921568627,0.854901961,0.917647059,6,0
+"94",833,120,11240,7,"11240_1_7_8_9","Columbia Plateau Low Sagebrush Steppe","Shrubland",222,NA,NA,222,100,NA,NA,"V-A",132,140,173,0.517647059,0.549019608,0.678431373,27,0
+"95",834,359,11250,7,"11250_1_7_8_9_10_19","Inter-Mountain Basins Big Sagebrush Steppe","Shrubland",59,NA,NA,59,100,NA,NA,"IV-A",255,115,223,1,0.450980392,0.874509804,80,0
+"96",835,366,11260,7,"11260_1_7_8_9_10_19","Inter-Mountain Basins Montane Sagebrush Steppe","Shrubland",31,NA,NA,31,100,NA,NA,"II-C",230,0,169,0.901960784,0,0.662745098,81,0
+"97",839,57,11530,7,"11530_7_8_9","Inter-Mountain Basins Greasewood Flat","Shrubland",1019,NA,NA,1019,100,NA,NA,"V-B",225,225,225,0.882352941,0.882352941,0.882352941,13,0
+"98",841,425,11560,7,"11560_1_2_7","North Pacific Lowland Riparian Forest and Shrubland","Riparian",749,NA,NA,749,100,NA,NA,"V-B",177,179,125,0.694117647,0.701960784,0.490196078,95,0
+"99",842,2275,11581,7,"11581_1_2_7","North Pacific Montane Riparian Woodland and Shrubland-Wet","Riparian",1888,1598,NA,865,46,54,NA,"V-B",188,207,212,0.737254902,0.811764706,0.831372549,506,0
+"100",844,399,11650,7,"11650_1_7_8","Northern Rocky Mountain Foothill Conifer Wooded Steppe","Conifer",124,397,126,54,43,14,43,"III-A",255,120,0,1,0.470588235,0,89,0
+"101",846,718,11700,7,"11700_2_3_7","Klamath-Siskiyou Xeromorphic Serpentine Savanna and Chaparral","Conifer",201,NA,14,13,7,NA,93,"I-B",210,235,0,0.823529412,0.921568627,0,160,0
+"102",847,54,11710,7,"11710_7","North Pacific Alpine and Subalpine Dry Grassland","Grassland",203,NA,NA,203,100,NA,NA,"V-A",167,195,167,0.654901961,0.764705882,0.654901961,12,0
+"103",848,3876,11720,7,"11720_7","Sierran-Intermontane Desert Western White Pine-White Fir Woodland","Conifer",202,65,45,24,12,36,52,"I-C",230,255,230,0.901960784,1,0.901960784,862,0
+"104",849,693,11730,7,"11730_1_7","North Pacific Wooded Volcanic Flowage","Conifer",497,NA,NA,497,100,NA,NA,"V-A",245,186,157,0.960784314,0.729411765,0.615686275,154,0

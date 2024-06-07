@@ -1,0 +1,25 @@
+---
+title: "To do"
+author: Randy
+date: May 29, 2024
+---
+
+## From Erin
+
+*Note-these are the things we can do, not all the ideas that have come up.  Also, some ideas I have taken some liberty with, i.e., they are not exactly as spelled out in emails. *
+
+* Add a pine page that has charts and maps of all pine types
+  * pine BpS map
+  * pine EVT map
+  * pine BpS chart
+  * pine EVT chart, include plantations
+  * pine sclass chart
+  * links to all pine BpS docs
+  * *consider pine-specifc chord diagram*
+
+* Data table for chord diagram
+
+## From Doug and Emily
+
+* Clean up colors with Jack Pine-Black Spruce-Pine Barren and the Pine-Oak barrens in the colors on the BPS map.  
+# Ask about 
