@@ -2,11 +2,11 @@
 title: "About this Project"
 ---
 
-LANDFIRE & The Nature Conservancy 
+## LANDFIRE & The Nature Conservancy 
 
-LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.   
+[LANDFIRE](https://landfire.gov){target="blank"} (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.   
 
-The Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by: 
+[The Nature Conservancy (TNC)](https://landfire.gov/faqs#heading-45){target="blank"} is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by: 
 
 * Helping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products 
 
@@ -17,13 +17,11 @@ The Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supporte
 
 > TNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.
 
-Created by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program. 
+Created by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational [LANDFIRE](https://landfire.gov){target="blank"} program. 
 
 Substantial code contributions for GIS data processing by [Myles Walimaa](https://www.linkedin.com/in/myles-walimaa-35596123b/){target="blank"}
 
 ## Biophysical Settings Products
-
-#### Quick intro
 
 A [Biophysical Setting (BpS)](https://landfire.gov/bps-models.php){target="blank"} is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.
 
@@ -42,8 +40,6 @@ Read [Blankenship et al. (2021)](https://esajournals.onlinelibrary.wiley.com/doi
 <br>
 
 ## Vegetation Products
-
-#### Quick Intro
 
 [LANDFIRE (LF) existing vegetation layers](https://landfire.gov/vegetation.php){target="blank"} describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees. 
 
