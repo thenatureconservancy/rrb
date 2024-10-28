@@ -63,7 +63,7 @@ quickmap <- qtm(shp,
                 fill = NULL, 
                 check.and.fix = TRUE, 
                 basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
-                title = 'RBS Analysis Area',)
+                title = 'Rogue River Basin',)
 
 quickmap
 
@@ -77,7 +77,7 @@ quickmap
 * Review is ongoing.
 * To share this web app, simply share the hyperlink.
 * Toggle between dark and light display of this site in the upper right corner of the page.
-* Learn more about LANDFIRE and The Nature Conservancy [here](https://rswaty.github.io/rbs/about.html{target="blank}.   
+* Learn more about LANDFIRE and The Nature Conservancy [here](about.qmd){target="blank}.   
 
 
 
