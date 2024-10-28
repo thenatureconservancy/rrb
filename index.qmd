@@ -1,7 +1,13 @@
 ---
-title: "DRAFT/RAPID Landscape Assessment for the RBS Analysis Area"
+title: "Landscape Assessment for the Rogue River Basin"
 author: "Randy Swaty, with substantial code from Myles Walimaa"
 ---
+
+<font size="4"> 
+**These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options. **
+
+</font> 
+
 
 ## Goals of this demonstration
 
@@ -13,6 +19,7 @@ We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
 
 The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
+
 
 This demonstration will:
 
@@ -70,7 +77,7 @@ quickmap
 * Review is ongoing.
 * To share this web app, simply share the hyperlink.
 * Toggle between dark and light display of this site in the upper right corner of the page.
-
+* Learn more about LANDFIRE and The Nature Conservancy [here](https://rswaty.github.io/rbs/about.html{target="blank}.   
 
 
 

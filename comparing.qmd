@@ -20,7 +20,7 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 -   Second, we compare **amounts of succession classes** (past and present) for the most prevalent ecosystems.
 
-** Chord Diagram**
+
 
 *Note: number presented when hovering equals acres.*
 
