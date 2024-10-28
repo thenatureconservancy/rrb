@@ -45,14 +45,29 @@ Read [Blankenship et al. (2021)](https://esajournals.onlinelibrary.wiley.com/doi
 
 #### Quick Intro
 
-LANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.' (from https://landfire.gov/vegetation.php)
+[LANDFIRE (LF) existing vegetation layers](https://landfire.gov/vegetation.php){target="blank"} describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees. 
 
 #### Resources
 
 -   [Existing Vegetation Cover](https://landfire.gov/evc.php){target="blank"}
 -   [Existing Vegetation Height](https://landfire.gov/evh.php){target="blank"}
--   [Existing Vegetation Type](https://landfire.gov/evt.php){target="blank"} <br>
+-   [Existing Vegetation Type](https://landfire.gov/evt.php){target="blank"} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R3Jn6sxaXR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fzc_zS6EoJE?si=Z4idrvFqgCMK8IJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
+
+<br>
+
+
+## Still have questions? LANDFIRE is here to help. 
+
+Ask the [LANDFIRE Helpdesk](mailto:helpdesk@landfire.gov){target="blank"} 
+
+Search the [LANDFIRE Helpdesk Dashboard](https://landfire.gov/helpdesk ){target="blank"} (see what others are asking and find solutions to common problems) 
+
+Search (& subscribe to) the [LANDFIRE YouTube Channel](https://www.youtube.com/@LANDFIREvideo){target="blank} (see tutorials, Office Hours, quick demonstrations) 
