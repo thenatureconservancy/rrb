@@ -33,10 +33,6 @@ Check out the vegetation modeling [website](https://thenatureconservancy.github.
 
 Read [Blankenship et al. (2021)](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3484){target="blank"} to learn how the models and descriptions were developed.
 
--   [Vegetation dynamics models: a comprehensive set for natural resource assessment and planning in the United States](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3484){target="blank"}. Kori Blankenship, Randy Swaty, Kimberly R. Hall, Sarah Hagen, Kelly Pohl, Ayn Shlisky Hunt, Jeannie Patton, Leonardo Frid, Jim Smith
--   [BpS Descriptions and Models information](https://landfire.gov/bps-models.php){target="blank"}
--   [Information about the BpS Spatial Data](https://landfire.gov/bps.php){target="blank"}
-
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xjaWJCe7udQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
