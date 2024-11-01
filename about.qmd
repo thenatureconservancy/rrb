@@ -19,6 +19,8 @@ title: "About this Project"
 
 Created by TNC Ecologist, [Randy Swaty](mailto:rswaty@tnc.org), this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational [LANDFIRE program](https://landfire.gov){target="blank"}. 
 
+These charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.
+
 Substantial code contributions for GIS data processing by [Myles Walimaa.](https://www.linkedin.com/in/myles-walimaa-35596123b/){target="blank"}
 
 ## Biophysical Settings Products
