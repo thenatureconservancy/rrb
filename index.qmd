@@ -23,7 +23,7 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions of the RBS analysis area.
+* Provide context for the past and present ecosystem conditions of the Rogue River Basin analysis area.
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
 * Facilitate an understanding of historical and current conditions on a regional scale.
 
